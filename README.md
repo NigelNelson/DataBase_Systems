@@ -1,6 +1,2 @@
 # DataBase_Systems
-# DataBase_Systems
-# DataBase_Systems
-# DataBase_Systems
-# DataBase_Systems
-# DataBase_Systems
+This course introduces the theory and practice of database design and application, with an emphasis on relational models. Dimensional, non-relational, and other topical data models are introduced. Topics include SQL, database design using entity-relation modeling and normalization techniques, database application programming, object to relational mapping, authentication and access control, concurrency, and performance optimization. Lab assignments reinforce the lecture material
