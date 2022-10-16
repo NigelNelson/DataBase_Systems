@@ -1,0 +1,6 @@
+0.00	"Action & Adventure"
+1.00	"Comedy"
+2.00	"Drama"
+3.00	"Horror"
+4.00	"Science Fiction"
+5.00	"Suspense"

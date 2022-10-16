@@ -1,0 +1,1000 @@
+7	5692769	NEWENTRY	-	-	-	-	-	"Record to support submission of GeneRIFs for a gene not in Entrez Gene (Azorhizobium caulinodans Dreyfus et al. 1988; Azotirhizobium caulinodans.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.)."	other	-	-	-	-	20071023
+9	1246500	repA1	pLeuDn_01	-	-	-	-	putative replication-associated protein	protein-coding	-	-	-	-	20071005
+9	1246501	repA2	pLeuDn_03	-	-	-	-	putative replication-associated protein	protein-coding	-	-	-	-	20071005
+9	1246502	leuA	pLeuDn_04	-	-	-	-	2-isopropylmalate synthase	protein-coding	-	-	-	-	20080519
+9	1246503	leuB	pLeuDn_05	-	-	-	-	3-isopropylmalate dehydrogenase	protein-coding	-	-	-	-	20080716
+9	1246504	leuC	pLeuDn_06	-	-	-	-	isopropylmalate isomerase large subunit	protein-coding	-	-	-	-	20080519
+9	1246505	leuD	pLeuDn_07	-	-	-	-	isopropylmalate isomerase small subunit	protein-coding	-	-	-	-	20080716
+9	1246509	ibp	pBPS1_01	-	-	-	-	Ibp protein	protein-coding	-	-	-	-	20080513
+9	1246510	repA1	pBPS1_02	-	-	-	-	repA1 protein	protein-coding	-	-	-	-	20071005
+9	2827857	NEWENTRY	-	-	-	-	-	"Record to support submission of GeneRIFs for a gene not in Entrez Gene (Buchnera aphidicola Munson et al. 1991.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.)."	other	-	-	-	-	20060222
+9	3722426	pLeuDn_02	pLeuDn_02	-	-	-	-	ORF1	protein-coding	-	-	-	hypothetical protein	20080519
+19	3758873	NEWENTRY	-	-	-	-	-	"Record to support submission of GeneRIFs for a gene not in Entrez Gene (Pelobacter carbinolicus Schink 1984.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.)."	other	-	-	-	-	20060222
+24	5129993	NEWENTRY	-	-	-	-	-	"Record to support submission of GeneRIFs for a gene not in Entrez Gene (""Pseudomonas putrefaciens"" (Derby and Hammer) Long and Hammer 1941; Alteromonas putrefaciens; Alteromonas putrefaciens (ex Derby and Hammer) Lee et al. 1981; Alteromonas putrifaciens; Pseudomonas putrefaciens; Shewanella putrefaciens (Lee et al. 1981) MacDonell and Colwell 1986; Shewanella putrifaciens.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.)."	other	-	-	-	-	20070510
+33	5961931	pMF1.19c	pMF1.19c	pMX1.19c	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+33	5961932	pMF1.12	pMF1.12	pMX1.12	-	-	-	putative protein kinase	protein-coding	-	-	-	-	20080716
+33	5961933	pMF1.22	pMF1.22	pMX1.22	-	-	-	"putative cobyrinic acid A,C-diamide synthase"	protein-coding	-	-	-	-	20080716
+33	5961934	pMF1.17	pMF1.17	pMX1.17	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+33	5961935	pMF1.7	pMF1.7	pMX1.7	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+33	5961936	pMF1.6	pMF1.6	pMX1.6	-	-	-	putative mucin-associated surface protein	protein-coding	-	-	-	-	20080716
+33	5961937	pMF1.23	pMF1.23	pMX1.23	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+33	5961938	pMF1.13	pMF1.13	pMX1.13	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+33	5961939	pMF1.1	pMF1.1	pMX1.1	-	-	-	putative APEG precursor protein	protein-coding	-	-	-	-	20080716
+33	5961940	pMF1.9	pMF1.9	pMX1.9	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+33	5961941	pMF1.5	pMF1.5	pMX1.5	-	-	-	putative RTX toxin-related Ca2+-binding protein	protein-coding	-	-	-	-	20080716
+33	5961942	pMF1.10	pMF1.10	pMX1.10	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+33	5961943	pMF1.21	pMF1.21	pMX1.21	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+33	5961944	pMF1.8	pMF1.8	pMX1.8	-	-	-	glycoside hydrolase family protein 19	protein-coding	-	-	-	-	20080716
+33	5961945	pMF1.20c	pMF1.20c	pMX1.20c	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+33	5961946	pMF1.4	pMF1.4	pMX1.4	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+33	5961947	pMF1.14	pMF1.14	pMX1.14	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+33	5961948	pMF1.2	pMF1.2	pMX1.2	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+33	5961949	pMF1.18	pMF1.18	pMX1.18	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+33	5961950	pMF1.16	pMF1.16	pMX1.16	-	-	-	putative resolvase	protein-coding	-	-	-	-	20080716
+33	5961951	pMF1.11	pMF1.11	pMX1.11	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+33	5961952	pMF1.15	pMF1.15	pMX1.15	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+33	5961953	pMF1.3	pMF1.3	pMX1.3	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+33	5999886	NEWENTRY	-	-	-	-	-	"Record to support submission of GeneRIFs for a gene not in Entrez Gene (""Micrococcus fulvus"" Cohn 1875; Micrococcus fulvus; Myxococcus fulvus (Cohn 1875) Jahn 1911.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.)."	other	-	-	-	-	20080804
+34	4126706	NEWENTRY	-	-	-	-	-	"Record to support submission of GeneRIFs for a gene not in Entrez Gene (Myxococcus xanthus Beebe 1941.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.)."	other	-	-	-	-	20080503
+56	5814795	NEWENTRY	-	-	-	-	-	"Record to support submission of GeneRIFs for a gene not in Entrez Gene (""Polyangium cellulosum"" Imshenetski and Solntseva 1936; ""Sorangium cellulosum"" (Imshenetski and Solntseva 1936) Imshenetski and Solntseva 1937; ""Sorangium nigrescens"" Krzemieniewska and Krzemieniewski 1938; ""Sorangium nigrum"" Krzemieniewska and Krzemieniewski 1938; Polyangium cellulosum; Polyangium cellulosum (ex Imshenetski and Solntseva 1936) Brockman 1989; Sorangium cellulosum (Brockman 1989) Reichenbach 2007; Sorangium nigrescens; Sorangium nigrum.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.)."	other	-	-	-	-	20080517
+65	5740022	NEWENTRY	-	-	-	-	-	"Record to support submission of GeneRIFs for a gene not in Entrez Gene (Herpetosiphon aurantiacus Holt and Lewin 1968; Herpetosiphon giganteus.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.)."	other	-	-	-	-	20071120
+139	1343044	orf01	cp18-2_p02	-	-	-	-	pseudo	pseudo	-	-	-	-	20060914
+139	1343045	orf02	cp18-2_p03	-	-	-	-	ORF02	protein-coding	-	-	-	-	20080827
+139	1343046	orf03	cp18-2_p04	-	-	-	-	ORF03	protein-coding	-	-	-	-	20080827
+139	1343047	orf04	cp18-2_p05	-	-	-	-	ORF04	protein-coding	-	-	-	-	20080827
+139	1343048	orf05	cp18-2_p06	-	-	-	-	ORF05	protein-coding	-	-	-	-	20080827
+139	1343049	orf06	cp18-2_p07	-	-	-	-	ORF06	protein-coding	-	-	-	-	20080827
+139	1343050	orf07	cp18-2_p08	-	-	-	-	ORF07/2.9 ORF5	protein-coding	-	-	-	-	20080827
+139	1343051	orf08	cp18-2_p09	-	-	-	-	ORF08/2.9 ORF6	protein-coding	-	-	-	-	20080827
+139	1343052	orf09	cp18-2_p10	-	-	-	-	ORF09/2.9 ORF7	protein-coding	-	-	-	-	20080827
+139	1343053	orf10	cp18-2_p11	-	-	-	-	ORF10/2.9 ORF8	protein-coding	-	-	-	-	20080827
+139	1343054	orf11/blyA	cp18-2_p12	-	-	-	-	hemolysin subunit A	protein-coding	-	-	-	ORF11/BlyA	20080827
+139	1343055	orf12/blyB	cp18-2_p13	-	-	-	-	hemolysin subunit B	protein-coding	-	-	-	ORF12/BlyB	20080827
+139	1343056	orf13	cp18-2_p14	-	-	-	-	ORF13/2.9 ORFC	protein-coding	-	-	-	-	20080827
+139	1343057	orf14	cp18-2_p15	-	-	-	-	ORF14/2.9 ORFD	protein-coding	-	-	-	-	20080827
+139	1343058	orf15	cp18-2_p16	-	-	-	-	ORF15/rep+	protein-coding	-	-	-	-	20080827
+139	1343059	orf16	cp18-2_p17	-	-	-	-	ORF16/rep-	protein-coding	-	-	-	-	20080827
+139	1343060	orf17/2.9-9 lp	cp18-2_p18	-	-	-	-	ORF17/2.9-9 lipoprotein	protein-coding	-	-	-	-	20080827
+139	1343061	orf18	cp18-2_p19	-	-	-	-	ORF18/36 kDa	protein-coding	-	-	-	-	20080827
+139	1343062	orf19	cp18-2_p20	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080827
+139	1343063	orf20	cp18-2_p21	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080827
+139	1343064	orf21	cp18-2_p22	-	-	-	-	putative partioning protein	protein-coding	-	-	-	hypothetical protein	20080827
+139	1343065	orf22	cp18-2_p23	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080827
+139	1343066	orf23/bdrA	cp18-2_p24	-	-	-	-	direct repeat protein	protein-coding	-	-	-	ORF23/BdrA	20080827
+139	1343067	orf24	cp18-2_p25	-	-	-	-	ORF24	protein-coding	-	-	-	-	20080827
+139	1343068	orf25	cp18-2_p26	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080827
+139	1343069	orf26	cp18-2_p27	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080827
+139	1343070	orf27	cp18-2_p28	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080827
+139	1343071	orf28/p21	cp18-2_p29	-	-	-	-	ORF28/p21	protein-coding	-	-	-	-	20080827
+139	1343072	orf29/elpB2	cp18-2_p30	-	-	-	-	ORF29/ElpB2	protein-coding	-	-	-	-	20080827
+139	1343073	orf30	cp18-2_p31	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080827
+139	1343074	orf31	cp18-2_p32	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080827
+139	1343075	orf32	cp18-2_p01	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080827
+139	2827859	NEWENTRY	-	-	-	-	-	"Record to support submission of GeneRIFs for a gene not in Entrez Gene (Borrelia burdorferi; Borrelia burgdorferi Johnson et al. 1984 emend. Baranton et al. 1992; Borrelia burgdorferi sensu stricto; Borrelia burgdorffragment; Lyme disease spirochete.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.)."	other	-	-	-	-	20080524
+139	4362664	Ip21p11	Ip21p11	-	-	-	-	ORF 9	protein-coding	-	-	-	hypothetical protein	20080827
+139	4362665	Ip21p04	Ip21p04	-	-	-	-	ORF 7b	protein-coding	-	-	-	hypothetical protein	20080827
+139	4362666	Ip21p01	Ip21p01	-	-	-	-	ORF X	protein-coding	-	-	-	hypothetical protein	20080827
+139	4362667	Ip21p02	Ip21p02	-	-	-	-	ORF 6	protein-coding	-	-	-	hypothetical protein	20080827
+139	4362668	Ip21p03	Ip21p03	-	-	-	-	ORF 7a	protein-coding	-	-	-	hypothetical protein	20080827
+139	4362669	Ip21p05	Ip21p05	-	-	-	-	ORF 8	protein-coding	-	-	-	hypothetical protein	20080827
+139	4362670	Ip21p06	Ip21p06	-	-	-	-	ORF 1	protein-coding	-	-	-	hypothetical protein	20080827
+139	4362671	Ip21p07	Ip21p07	-	-	-	-	ORF 2	protein-coding	-	-	-	hypothetical protein	20080827
+139	4362672	Ip21p08	Ip21p08	-	-	-	-	ORF 3	protein-coding	-	-	-	hypothetical protein	20080827
+139	4362673	Ip21p09	Ip21p09	-	-	-	-	ORF 4	protein-coding	-	-	-	hypothetical protein	20080827
+139	4362674	Ip21p10	Ip21p10	-	-	-	-	ORF 5	protein-coding	-	-	-	hypothetical protein	20080827
+139	4594753	lp6-9_p06	lp6-9_p06	-	-	-	-	CdsG	protein-coding	-	-	-	-	20080827
+139	4594754	lp6-9_p10	lp6-9_p10	-	-	-	-	CdsK	protein-coding	-	-	-	-	20080827
+139	4594755	lp6-9_p01	lp6-9_p01	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080827
+139	4594756	lp6-9_p09	lp6-9_p09	-	-	-	-	CdsJ	protein-coding	-	-	-	-	20080827
+139	4594757	lp6-9_p13	lp6-9_p13	-	-	-	-	CdsN	protein-coding	-	-	-	-	20080827
+139	4594758	lp6-9_p03	lp6-9_p03	-	-	-	-	CdsD	protein-coding	-	-	-	-	20080827
+139	4594759	lp6-9_p08	lp6-9_p08	-	-	-	-	CdsI	protein-coding	-	-	-	-	20080827
+139	4594760	lp6-9_p04	lp6-9_p04	-	-	-	-	CdsE	protein-coding	-	-	-	-	20080827
+139	4594761	lp6-9_p14	lp6-9_p14	-	-	-	-	CdsO	protein-coding	-	-	-	-	20080827
+139	4594762	lp6-9_p02	lp6-9_p02	-	-	-	-	CdsC	protein-coding	-	-	-	-	20080827
+139	4594763	lp6-9_p05	lp6-9_p05	-	-	-	-	CdsF	protein-coding	-	-	-	-	20080827
+139	4594764	lp6-9_p12	lp6-9_p12	-	-	-	-	CdsM	protein-coding	-	-	-	-	20080827
+139	4594765	lp6-9_p07	lp6-9_p07	-	-	-	-	CdsH	protein-coding	-	-	-	-	20080827
+139	4594766	lp6-9_p11	lp6-9_p11	-	-	-	-	CdsL	protein-coding	-	-	-	-	20080827
+140	6295700	NEWENTRY	-	-	-	-	-	"Record to support submission of GeneRIFs for a gene not in Entrez Gene (""Spirochaeta hermsi"" (sic) Davis 1942; Borrelia hermsii (Davis 1942) Steinhaus 1946; Spirochaeta hermsi.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.)."	other	-	-	-	-	20080513
+142	6741051	NEWENTRY	-	-	-	-	-	"Record to support submission of GeneRIFs for a gene not in Entrez Gene (""Spirochaeta turicatae"" Brumpt 1933; Borrelia turicatae (Brumpt 1933) Steinhaus 1946; Spirochaeta turicatae.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.)."	other	-	-	-	-	20080805
+158	1119924	rep	pTS1_p1	-	-	-	-	replication protein	protein-coding	-	-	-	hypothetical protein	20080716
+158	1119925	mob	pTS1_p2	-	-	-	-	mobilization protein	protein-coding	-	-	-	Mob	20080510
+158	2827861	NEWENTRY	-	-	-	-	-	"Record to support submission of GeneRIFs for a gene not in Entrez Gene (""Spirillum dentium"" (Miller 1889) Sternberg 1892; ""Spirochaeta ambigua"" Seguin and Vinzent 1936; ""Spirochaeta comandonii"" Seguin and Vinzent 1936; ""Spirochaeta dentium"" (Miller 1889) Migula 1895; ""Spirochaeta microdentium"" (Noguchi 1912) Heim 1922; ""Spirochaeta orthodonta"" Hoffmann 1920; ""Spirochaete denticola"" Flugge 1886; ""Spirochaete dentium"" Miller 1889; ""Spironema dentium"" (Miller 1889) Gross 1912; ""Treponema ambiguum"" (Seguin and Vinzent 1936) Prevot 1940; ""Treponema comandonii"" (Seguin and Vinzent 1936) Prevot 1940; ""Treponema dentium"" (Miller 1889) Dobell 1912; ""Treponema dentium-stenogyratum"" Pettit 1928; ""Treponema microdentium"" Noguchi 1912; ""Treponema orthodontum"" (Hoffmann 1920) Noguchi 1928; Spirillum dentium; Spirochaeta ambigua; Spirochaeta comandonii; Spirochaeta dentium; Spirochaeta microdentium; Spirochaeta orthodonta; Spirochaete denticola; Spirochaete dentium; Spironema dentium; Treponema ambiguum; Treponema comandonii; Treponema denticola (ex Brumpt 1925) Chan et al. 1993; Treponema denticola (ex Flugge 1886) Chan et al. 1993; Treponema dentium; Treponema dentium-stenogyratum; Treponema microdentium; Treponema orthodontum.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.)."	other	-	-	-	-	20080310
+160	2827863	NEWENTRY	-	-	-	-	-	"Record to support submission of GeneRIFs for a gene not in Entrez Gene (""Microspironema pallidum"" (Schaudinn and Hoffmann 1905) Stiles and Pfender 1905; ""Spirillum pallidum"" (Schaudinn and Hoffmann 1905) Mace 1913; ""Spirochaeta pallida"" Schaudinn and Hoffmann 1905; ""Spironema pallidum"" (Schaudinn and Hoffmann 1905) Vuillemin 1905; Microspironema pallidum; Spirillum pallidum; Spirochaeta pallida; Spironema pallidum; Treponema pallidum (Schaudinn and Hoffmann 1905) Schaudinn 1905.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.)."	other	-	-	-	-	20071020
+172	6240085	NEWENTRY	-	-	-	-	-	"Record to support submission of GeneRIFs for a gene not in Entrez Gene (Leptospira biflexa (Wolbach and Binger 1914) Noguchi 1918 (Approved Lists 1980) emend. Faine an.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.)."	other	-	-	-	-	20080422
+173	2827865	NEWENTRY	-	-	-	-	-	"Record to support submission of GeneRIFs for a gene not in Entrez Gene (""Leptospira icteroides"" Noguchi 1919; ""Spirochaeta icterogenes"" Uhlenhuth and Fromme 1916; ""Spirochaeta icterohaemorrhagiae"" Inada et al. 1916; ""Spirochaeta interrogans"" Stimson 1907; ""Spirochaeta nodosa"" Hubener and Reiter 1916; Leptospira icteroides; Leptospira interrogans (Stimson 1907) Wenyon 1926 (AL 1980) emend. Faine and Stallman 1982; Spirochaeta icterogenes; Spirochaeta icterohaemorrhagiae; Spirochaeta interrogans; Spirochaeta nodosa.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.)."	other	-	-	-	-	20080510
+174	4463573	NEWENTRY	-	-	-	-	-	"Record to support submission of GeneRIFs for a gene not in Entrez Gene (Leptospira borgpeterseni; Leptospira borgpetersenii Yasuda et al. 1987.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.)."	other	-	-	-	-	20061024
+180	3337110	ORF438	p49879_2p31	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+180	3337111	ORF961	p49879_2p11	-	-	-	-	transposase-like protein	protein-coding	-	-	-	hypothetical protein	20080716
+180	3337112	ORF213	p49879_2p07	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+180	3337113	ORF234	p49879_2p15	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+180	3337114	ORF236	p49879_2p25	-	-	-	-	TraA-like protein	protein-coding	-	-	-	ORF504	20080513
+180	3337115	ORF243	p49879_2p33	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+180	3337116	ORF248	p49879_2p01	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+180	3337117	ORF264	p49879_2p04	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+180	3337118	ORF271	p49879_2p24	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+180	3337119	ORF334	p49879_2p09	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+180	3337120	ORF376	p49879_2p30	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+180	3337121	ORF88.1	p49879_2p19	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+180	3337122	ORF88.2	p49879_2p28	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+180	3337123	ORF94	p49879_2p05	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+180	3337124	ORF98	p49879_2p18	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+180	3337125	ORF100	p49879_2p21	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+180	3337126	ORF110	p49879_2p26	-	-	-	-	MobS-like protein	protein-coding	-	-	-	hypothetical protein	20080716
+180	3337127	ORF120	p49879_2p23	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+180	3337128	ORF131	p49879_2p08	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+180	3337129	ORF133	p49879_2p32	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+180	3337130	ORF139	p49879_2p16	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+180	3337131	ORF170	p49879_2p27	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+180	3337132	ORF187	p49879_2p13	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+180	3337133	ORF189	p49879_2p03	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+180	3337134	ORF195	p49879_2p17	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+180	3337135	ORF198	p49879_2p12	-	-	-	-	resolvase-like protein	protein-coding	-	-	-	hypothetical protein	20080716
+180	3337136	ORF209	p49879_2p20	-	-	-	-	ParA-like protein	protein-coding	-	-	-	hypothetical protein	20080716
+180	3337137	ORF47	p49879_2p14	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+180	3337138	ORF60	p49879_2p02	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+180	3337139	ORF77.1	p49879_2p29	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+180	3337140	ORF77.2	p49879_2p10	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+180	3337141	ORF86	p49879_2p22	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+180	3337142	ORF400	p49879_2p06	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+180	3345824	p49879_1p02	p49879_1p02	-	-	-	-	ORF187	protein-coding	-	-	-	hypothetical protein	20080513
+180	3345825	p49879_1p12	p49879_1p12	-	-	-	-	ORF989	protein-coding	-	-	-	transposase-like protein	20080520
+180	3345826	p49879_1p21	p49879_1p21	-	-	-	-	ORF231	protein-coding	-	-	-	hypothetical protein	20071129
+180	3345827	p49879_1p16	p49879_1p16	-	-	-	-	ORF234	protein-coding	-	-	-	hypothetical protein	20071129
+180	3345828	p49879_1p15	p49879_1p15	-	-	-	-	ORF91	protein-coding	-	-	-	hypothetical protein	20071129
+180	3345829	p49879_1p30	p49879_1p30	-	-	-	-	ORF449	protein-coding	-	-	-	hypothetical protein	20071129
+180	3345830	p49879_1p09	p49879_1p09	-	-	-	-	ORF127	protein-coding	-	-	-	hypothetical protein	20080513
+180	3345831	p49879_1p06	p49879_1p06	-	-	-	-	ORF320	protein-coding	-	-	-	hypothetical protein	20071129
+180	3345832	p49879_1p04	p49879_1p04	-	-	-	-	ORF477	protein-coding	-	-	-	hypothetical protein	20080517
+180	3345833	p49879_1p18	p49879_1p18	-	-	-	-	ORF94	protein-coding	-	-	-	MobS mobilization-like protein	20071129
+180	3345834	p49879_1p17	p49879_1p17	-	-	-	-	ORF237	protein-coding	-	-	-	TraA mobilization-like protein	20080517
+180	3345835	p49879_1p32	p49879_1p32	-	-	-	-	ORF289	protein-coding	-	-	-	hypothetical protein	20071129
+180	3345836	p49879_1p10	p49879_1p10	-	-	-	-	ORF209	protein-coding	-	-	-	ParA partitioning-like protein	20080517
+180	3345837	p49879_1p22	p49879_1p22	-	-	-	-	ORF133	protein-coding	-	-	-	hypothetical protein	20071129
+180	3345838	p49879_1p19	p49879_1p19	-	-	-	-	ORF151	protein-coding	-	-	-	hypothetical protein	20071129
+180	3345839	p49879_1p14	p49879_1p14	-	-	-	-	ORF178	protein-coding	-	-	-	hypothetical protein	20071129
+180	3345840	p49879_1p23	p49879_1p23	-	-	-	-	ORF314	protein-coding	-	-	-	hypothetical protein	20071129
+180	3345841	p49879_1p24	p49879_1p24	-	-	-	-	ORF405	protein-coding	-	-	-	hypothetical protein	20071129
+180	3345842	p49879_1p08	p49879_1p08	-	-	-	-	ORF100	protein-coding	-	-	-	hypothetical protein	20080513
+180	3345843	p49879_1p31	p49879_1p31	-	-	-	-	ORF325	protein-coding	-	-	-	hypothetical protein	20071129
+180	3345844	p49879_1p20	p49879_1p20	-	-	-	-	ORF142	protein-coding	-	-	-	hypothetical protein	20071129
+180	3345845	p49879_1p26	p49879_1p26	-	-	-	-	ORF175	protein-coding	-	-	-	hypothetical protein	20080516
+180	3345846	p49879_1p27	p49879_1p27	-	-	-	-	ORF307	protein-coding	-	-	-	hypothetical protein	20071129
+180	3345847	p49879_1p01	p49879_1p01	-	-	-	-	ORF140	protein-coding	-	-	-	hypothetical protein	20080520
+180	3345848	p49879_1p29	p49879_1p29	-	-	-	-	ORF1012	protein-coding	-	-	-	hypothetical protein	20071129
+180	3345849	p49879_1p25	p49879_1p25	-	-	-	-	ORF423	protein-coding	-	-	-	hypothetical protein	20071129
+180	3345850	p49879_1p07	p49879_1p07	-	-	-	-	ORF82	protein-coding	-	-	-	hypothetical protein	20071129
+180	3345851	p49879_1p13	p49879_1p13	-	-	-	-	ORF83	protein-coding	-	-	-	hypothetical protein	20071129
+180	3345852	p49879_1p28	p49879_1p28	-	-	-	-	ORF62	protein-coding	-	-	-	hypothetical protein	20080516
+180	3345853	p49879_1p03	p49879_1p03	-	-	-	-	ORF87	protein-coding	-	-	-	hypothetical protein	20080513
+180	3345854	p49879_1p05	p49879_1p05	-	-	-	-	ORF98	protein-coding	-	-	-	hypothetical protein	20080513
+180	3345855	p49879_1p11	p49879_1p11	-	-	-	-	ORF199	protein-coding	-	-	-	resolvase-like protein	20080513
+180	3759980	NEWENTRY	-	-	-	-	-	"Record to support submission of GeneRIFs for a gene not in Entrez Gene (Leptospirillum ferroxidans.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.)."	other	-	-	-	-	20080813
+195	3204980	pCC31p01	pCC31p01	-	-	-	-	tetracycline resistance	protein-coding	-	-	-	teto	20080510
+195	3204981	pCC31p02	pCC31p02	-	-	-	-	cpp2	protein-coding	-	-	-	-	20071005
+195	3204982	pCC31p03	pCC31p03	-	-	-	-	cpp3	protein-coding	-	-	-	-	20071005
+195	3204983	pCC31p04	pCC31p04	-	-	-	-	cpp4	protein-coding	-	-	-	-	20071005
+195	3204984	pCC31p05	pCC31p05	-	-	-	-	putative replication protein	protein-coding	-	-	-	repa	20080510
+195	3204985	pCC31p06	pCC31p06	-	-	-	-	Cjp19-like protein	protein-coding	-	-	-	cpp6	20071005
+195	3204986	pCC31p07	pCC31p07	-	-	-	-	cpp7	protein-coding	-	-	-	-	20071005
+195	3204987	pCC31p08	pCC31p08	-	-	-	-	cpp8	protein-coding	-	-	-	-	20071005
+195	3204988	pCC31p10	pCC31p10	-	-	-	-	cpp10	protein-coding	-	-	-	-	20071005
+195	3204989	pCC31p14	pCC31p14	-	-	-	-	jhp0928-like protein	protein-coding	-	-	-	cpp14	20080510
+195	3204990	pCC31p15	pCC31p15	-	-	-	-	cpp15	protein-coding	-	-	-	-	20080510
+195	3204991	pCC31p11	pCC31p11	-	-	-	-	cpp11	protein-coding	-	-	-	-	20071005
+195	3204992	pCC31p12	pCC31p12	-	-	-	-	cpp12	protein-coding	-	-	-	-	20080510
+195	3204993	pCC31p13	pCC31p13	-	-	-	-	cpp13	protein-coding	-	-	-	-	20071005
+195	3204994	pCC31p16	pCC31p16	-	-	-	-	cpp16	protein-coding	-	-	-	-	20071005
+195	3204995	pCC31p17	pCC31p17	-	-	-	-	putative nickase	protein-coding	-	-	-	cpp17	20080510
+195	3204996	pCC31p18	pCC31p18	-	-	-	-	cpp18	protein-coding	-	-	-	-	20071005
+195	3204997	pCC31p19	pCC31p19	-	-	-	-	cpp19	protein-coding	-	-	-	-	20071005
+195	3204998	pCC31p20	pCC31p20	-	-	-	-	cpp20	protein-coding	-	-	-	-	20071005
+195	3204999	pCC31p21	pCC31p21	-	-	-	-	putative DNA primase	protein-coding	-	-	-	cpp22	20080510
+195	3205000	pCC31p22	pCC31p22	-	-	-	-	cpp23	protein-coding	-	-	-	-	20071005
+195	3205001	pCC31p23	pCC31p23	-	-	-	-	cpp24	protein-coding	-	-	-	-	20080510
+195	3205002	pCC31p24	pCC31p24	-	-	-	-	cpp25	protein-coding	-	-	-	-	20080510
+195	3205003	pCC31p25	pCC31p25	-	-	-	-	cpp26	protein-coding	-	-	-	-	20080510
+195	3205004	pCC31p26	pCC31p26	-	-	-	-	putative DNA invertase	protein-coding	-	-	-	cpp27	20080510
+195	3205005	pCC31p27	pCC31p27	-	-	-	-	vapd	protein-coding	-	-	-	-	20080510
+195	3205006	pCC31p28	pCC31p28	-	-	-	-	cpp29	protein-coding	-	-	-	-	20071005
+195	3205007	pCC31p29	pCC31p29	-	-	-	-	putative type IV secretion system component	protein-coding	-	-	-	cmgb2	20071005
+195	3205008	pCC31p30	pCC31p30	-	-	-	-	putative type IV secretion system component	protein-coding	-	-	-	cmgb3/4	20080510
+195	3205009	pCC31p31	pCC31p31	-	-	-	-	cpp32	protein-coding	-	-	-	-	20080510
+195	3205010	pCC31p32	pCC31p32	-	-	-	-	cpp33	protein-coding	-	-	-	-	20071005
+195	3205011	pCC31p33	pCC31p33	-	-	-	-	putative single-stranded DNA binding protein	protein-coding	-	-	-	hypothetical protein	20080716
+195	3205012	pCC31p34	pCC31p34	-	-	-	-	cpp35	protein-coding	-	-	-	-	20071005
+195	3205013	pCC31p35	pCC31p35	-	-	-	-	putative type IV secretion system component	protein-coding	-	-	-	cmgb5	20071005
+195	3205014	pCC31p36	pCC31p36	-	-	-	-	putative type IV secretion system component	protein-coding	-	-	-	cmgb6	20080510
+195	3205015	pCC31p37	pCC31p37	-	-	-	-	putative type IV secretion system component	protein-coding	-	-	-	cmgb7	20071005
+195	3205016	pCC31p38	pCC31p38	-	-	-	-	putative type IV secretion system component	protein-coding	-	-	-	cmgb8	20080510
+195	3205017	pCC31p39	pCC31p39	-	-	-	-	putative type IV secretion system component	protein-coding	-	-	-	cmgb9	20080510
+195	3205018	pCC31p40	pCC31p40	-	-	-	-	putative type IV secretion system component	protein-coding	-	-	-	cmgb10	20080510
+195	3205019	pCC31p41	pCC31p41	-	-	-	-	putative type IV secretion system component	protein-coding	-	-	-	cmgb11	20080510
+195	3205020	pCC31p42	pCC31p42	-	-	-	-	putative type IV secretion system component	protein-coding	-	-	-	cmgd4	20080510
+195	3205021	pCC31p43	pCC31p43	-	-	-	-	cpp44	protein-coding	-	-	-	-	20071005
+195	3205022	pCC31p44	pCC31p44	-	-	-	-	cpp45	protein-coding	-	-	-	-	20071005
+195	3205023	pCC31p45	pCC31p45	-	-	-	-	cpp46	protein-coding	-	-	-	-	20071005
+195	3205024	pCC31p46	pCC31p46	-	-	-	-	cpp47	protein-coding	-	-	-	-	20071005
+195	3205025	pCC31p47	pCC31p47	-	-	-	-	cpp48	protein-coding	-	-	-	-	20071005
+195	3205026	pCC31p48	pCC31p48	-	-	-	-	cpp49	protein-coding	-	-	-	-	20080510
+195	3205027	pCC31p49	pCC31p49	-	-	-	-	cpp50	protein-coding	-	-	-	-	20071005
+195	3205028	pCC31p50	pCC31p50	-	-	-	-	cpp51	protein-coding	-	-	-	-	20071005
+195	3205029	pCC31p09	pCC31p09	-	-	-	-	cpp9	protein-coding	-	-	-	-	20071005
+195	3293152	NEWENTRY	-	-	-	-	-	"Record to support submission of GeneRIFs for a gene not in Entrez Gene (""Vibrio coli"" Doyle 1948; Campylobacter coli (Doyle 1948) Veron and Chatelain 1973; Campylobacter hyoilei; Campylobacter hyoilei Alderton et al. 1995; Vibrio coli.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.)."	other	-	-	-	-	20070825
+195	3429167	mob	p3384_01	-	-	-	-	Mob	protein-coding	-	-	-	-	20071005
+195	3429168	repA	p3384_02	-	-	-	-	RepA	protein-coding	-	-	-	hypothetical protein	20080716
+195	3429169	repB	p3384_03	-	-	-	-	RepB	protein-coding	-	-	-	hypothetical protein	20080716
+195	3429402	p3386_02	p3386_02	-	-	-	-	putative Rep	protein-coding	-	-	-	-	20080517
+195	3429403	p3386_03	p3386_03	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+195	3429404	p3386_01	p3386_01	-	-	-	-	similar to hypothetical protein from Photobacterium profundum	protein-coding	-	-	-	hypothetical protein	20071005
+196	4555923	NEWENTRY	-	-	-	-	-	"Record to support submission of GeneRIFs for a gene not in Entrez Gene (""Spirillum fetus"" Lehmann and Neumann 1927; ""Vibrio fetus"" Smith and Taylor 1919; Campylobacter fetus (Smith and Taylor 1919) Sebald and Veron 1963; Spirillum fetus; Vibrio fetus.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.)."	other	-	-	-	-	20061205
+197	1343080	mob	pCJ419_p1	-	-	-	-	mobilization protein	protein-coding	-	-	-	-	20071005
+197	1343081	RepA	pCJ419_p2	-	-	-	-	putative replication protein A	protein-coding	-	-	-	-	20071129
+197	1343082	RepB	pCJ419_p3	-	-	-	-	putative replication protein B	protein-coding	-	-	-	-	20080510
+197	3979052	NEWENTRY	-	-	-	-	-	"Record to support submission of GeneRIFs for a gene not in Entrez Gene (""Campylobacter fetus subsp. jejuni"" Smibert 1974; ""Vibrio hepaticus"" Mathey and Rissberger 1964; ""Vibrio jejuni"" Jones et al. 1931; Ampylobacter jejuni; Campylobacter fetus subsp. jejuni; Campylobacter jejuni (Jones et al. 1931) Veron and Chatelain 1973; Vibrio hepaticus; Vibrio jejuni.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.)."	other	-	-	-	-	20080802
+197	4083180	repC	pCJ1170_02	-	-	-	-	replication initiation protein	protein-coding	-	-	-	-	20080514
+197	4083181	mob	pCJ1170_03	-	-	-	-	mobilization protein	protein-coding	-	-	-	-	20080514
+197	4083182	repA	pCJ1170_01	-	-	-	-	replication protein	protein-coding	-	-	-	hypothetical protein	20080716
+197	4267385	pCJ419_p4	pCJ419_p4	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071006
+197	4362676	repA	pCJ01p1	-	-	-	-	Rep A	protein-coding	-	-	-	putative replication protein A	20071129
+197	4362677	repB	pCJ01p2	-	-	-	-	RepB	protein-coding	-	-	-	replication protein B	20080507
+197	4362678	pCJ01p4	pCJ01p4	-	-	-	-	ORF3	protein-coding	-	-	-	hypothetical protein	20071129
+197	4362679	pCJ01p3	pCJ01p3	-	-	-	-	ORF4	protein-coding	-	-	-	hypothetical protein	20071129
+199	5602363	NEWENTRY	-	-	-	-	-	"Record to support submission of GeneRIFs for a gene not in Entrez Gene (Campylobacter concisus Tanner et al. 1981.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.)."	other	-	-	-	-	20070918
+200	5457049	NEWENTRY	-	-	-	-	-	"Record to support submission of GeneRIFs for a gene not in Entrez Gene (Campylobacter curvus (Tanner et al. 1984) Vandamme et al. 1991; Wolinella curva; Wolinella curva Tanner et al. 1984.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.)."	other	-	-	-	-	20070731
+201	3355313	mob	pCL300_p01	-	-	-	-	mobilization protein	protein-coding	-	-	-	-	20071005
+201	3355314	pCL300_p02	pCL300_p02	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071017
+201	3355315	repB	pCL300_p03	-	-	-	-	replication protein B	protein-coding	-	-	-	-	20080513
+201	3355316	pCL300_p04	pCL300_p04	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+201	3759982	NEWENTRY	-	-	-	-	-	"Record to support submission of GeneRIFs for a gene not in Entrez Gene (Campylobacter lari corrig. Benjamin et al. 1984; Campylobacter laridis.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.)."	other	-	-	-	-	20060222
+201	4033383	mob	pUPTC237_01	-	-	-	-	mobilization protein	protein-coding	-	-	-	-	20071017
+201	4033384	repA	pUPTC237_02	-	-	-	-	putative replication protein A	protein-coding	-	-	-	-	20071017
+201	4033385	repB	pUPTC237_03	-	-	-	-	putative repliccation protein B	protein-coding	-	-	-	-	20080514
+201	4033386	pUPTC237_04	pUPTC237_04	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071017
+210	1167890	repA	pHPO100_01	-	-	-	-	replication protein	protein-coding	-	-	-	-	20080510
+210	1167891	repA	pHPM186_03	-	-	-	-	RepA	protein-coding	-	-	-	replication protein A	20080510
+210	1167892	tnpB	pHPM186_01	-	-	-	-	TnpB	protein-coding	-	-	-	transposase B	20080716
+210	1167893	tnpA	pHPM186_02	-	-	-	-	TnpA	protein-coding	-	-	-	transposase A	20080617
+210	1167894	tnpB	pHPM186_04	-	-	-	-	TnpB	protein-coding	-	-	-	transposase B	20080716
+210	1167895	tnpA	pHPM186_05	-	-	-	-	TnpA	protein-coding	-	-	-	transposase A	20080617
+210	1167896	repB	pHP51_01	-	-	-	-	replication initiation protein B	protein-coding	-	-	-	hypothetical protein	20080716
+210	1167897	repA	pHPM8_01	-	-	-	-	replication A protein	protein-coding	-	-	-	hypothetical protein	20080716
+210	1343138	RepA	pHel5_01	-	-	-	-	orf5A	protein-coding	-	-	-	replication initiation protein A	20080510
+210	1343139	orf5B	pHel5_02	-	-	-	-	pseudo	pseudo	-	-	-	-	20060317
+210	1343140	orf5C	pHel5_03	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+210	1343141	orf5D	pHel5_04	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+210	1343142	orf5E	pHel5_05	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+210	1343143	orf5F	pHel5_06	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+210	1343144	orf5G	pHel5_07	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+210	1343145	orf5H	pHel5_08	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+210	1343146	orf5I	pHel5_09	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+210	1343147	orf5J	pHel5_10	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+210	1343148	orf5K	pHel5_11	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080510
+210	1343149	orf5L	pHel5_12	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080507
+210	1343150	orf5M	pHel5_13	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+210	1343151	orf5N	pHel5_14	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080510
+210	1343152	orf5O	pHel5_15	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+210	1343153	orf5P	pHel5_16	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+210	1343154	orf5Q	pHel5_17	-	-	-	-	pseudo	pseudo	-	-	-	-	20060317
+210	1343155	orf4A	pHel4_01	-	-	-	-	MccC-like protein	protein-coding	-	-	-	-	20071005
+210	1343156	orf4B	pHel4_02	-	-	-	-	MccB-like protein	protein-coding	-	-	-	-	20080617
+210	1343157	orf4C	pHel4_03	-	-	-	-	MobA-like protein	protein-coding	-	-	-	-	20080510
+210	1343158	orf4D	pHel4_04	-	-	-	-	MobD-like protein	protein-coding	-	-	-	-	20071005
+210	1343159	orf4E	pHel4_05	-	-	-	-	MobB-like protein	protein-coding	-	-	-	-	20071005
+210	1343160	orf4F	pHel4_06	-	-	-	-	MobC-like protein	protein-coding	-	-	-	-	20080513
+210	1343161	orf4G	pHel4_07	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+210	1343162	orf4H	pHel4_08	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+210	1343163	RepA	pHel4_09	-	-	-	-	orf4I	protein-coding	-	-	-	hypothetical protein	20080716
+210	1343164	orf4J	pHel4_10	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080617
+210	1343165	orf4K	pHel4_11	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+210	1343166	orf4L	pHel4_12	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+210	1343167	orf4M	pHel4_13	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080510
+210	1343168	orf4N	pHel4_14	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+210	1343169	orf4O	pHel4_15	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080510
+210	2827869	NEWENTRY	-	-	-	-	-	"Record to support submission of GeneRIFs for a gene not in Entrez Gene (Campylobacter pylori; Campylobacter pylori Marshall et al. 1985 corrig. Marshall and Goodwin 1987; Campylobacter pylori corrig. Marshall et al. 1985 emend. Fox et al. 1988; Campylobacter pylori corrig. Marshall et al. 1985 emend. Fox et al. 1989; Campylobacter pylori subsp. pylori; Campylobacter pylori subsp. pylori Marshall et al. 1985; Campylobacter pyloridis; Campylobacter pyloridis Marshall et al.1985; Helicobacter nemestrinae; Helicobacter nemestrinae Bronsdon et al. 1991; Helicobacter pylori (Marshall et al. 1985) Goodwin et al. 1989.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.)."	other	-	-	-	-	20080809
+210	3119666	pHPM8_05	pHPM8_05	-	-	-	-	ORF5	protein-coding	-	-	-	putative microcin peptide	20071005
+210	3119667	pHPM8_06	pHPM8_06	-	-	-	-	ORF6	protein-coding	-	-	-	hypothetical protein	20071113
+210	3119668	pHPM8_03	pHPM8_03	-	-	-	-	ORF3	protein-coding	-	-	-	hypothetical protein	20071113
+210	3119669	pHPM8_04	pHPM8_04	-	-	-	-	ORF4	protein-coding	-	-	-	hypothetical protein	20080510
+210	3119670	pHPM8_02	pHPM8_02	-	-	-	-	ORF2	protein-coding	-	-	-	hypothetical protein	20080510
+210	3618667	pHP489_01	pHP489_01	-	-	-	-	putative Rep protein	protein-coding	-	-	-	-	20080510
+210	3722210	pHPM180_02	pHPM180_02	-	-	-	-	"orf2; putative 27,629 kDa protein"	protein-coding	-	-	-	hypothetical protein	20080609
+210	3722211	pHPM180_01	pHPM180_01	-	-	-	-	"orf1; putative 54,517 kDa protein; transcription of this region was confirmed by RNase protection"	protein-coding	-	-	-	hypothetical protein	20080716
+210	3722428	pHPO100_02	pHPO100_02	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080511
+210	3722429	pHP51_02	pHP51_02	-	-	-	-	putative fic; ORF2	protein-coding	-	-	-	putative cAMP-induced filamentation protein	20080510
+210	3722430	pAL202_01	pAL202_01	-	-	-	-	RepA	protein-coding	-	-	-	hypothetical protein	20080510
+210	3722431	pAL202_07	pAL202_07	-	-	-	-	ORF2	protein-coding	-	-	-	hypothetical protein	20080510
+210	3722432	pAL202_02	pAL202_02	-	-	-	-	ORF3	protein-coding	-	-	-	hypothetical protein	20080617
+210	3722433	pAL202_03	pAL202_03	-	-	-	-	ORF4	protein-coding	-	-	-	hypothetical protein	20080716
+210	3722434	pAL202_04	pAL202_04	-	-	-	-	ORF5	protein-coding	-	-	-	hypothetical protein	20071006
+210	3722435	pAL202_05	pAL202_05	-	-	-	-	ORF6	protein-coding	-	-	-	hypothetical protein	20080511
+210	3722436	pAL202_06	pAL202_06	-	-	-	-	ORF7	protein-coding	-	-	-	hypothetical protein	20071006
+210	3722437	pAL202_08	pAL202_08	-	-	-	-	ORF8	protein-coding	-	-	-	hypothetical protein	20080510
+210	3722438	pAL202_09	pAL202_09	-	-	-	-	ORF9	protein-coding	-	-	-	hypothetical protein	20080617
+210	3722439	pAL202_10	pAL202_10	-	-	-	-	ORF10	protein-coding	-	-	-	hypothetical protein	20080510
+210	3722440	pAL202_11	pAL202_11	-	-	-	-	ORF11	protein-coding	-	-	-	hypothetical protein	20071006
+210	3722441	pAL202_12	pAL202_12	-	-	-	-	ORF12	protein-coding	-	-	-	hypothetical protein	20071006
+210	3722442	pAL202_13	pAL202_13	-	-	-	-	ORF13	protein-coding	-	-	-	hypothetical protein	20080510
+210	3722443	pAL202_14	pAL202_14	-	-	-	-	ORF14	protein-coding	-	-	-	hypothetical protein	20071006
+210	3722444	pAL202_15	pAL202_15	-	-	-	-	ORF15	protein-coding	-	-	-	hypothetical protein	20080510
+210	6383329	mobB	pHP69_p08	-	-	-	-	involved in formation of nic	protein-coding	-	-	-	MobB	20080617
+210	6383330	fic	pHP69_p02	-	-	-	-	replication-associated protein	protein-coding	-	-	-	putative cAMP-induced filamentation protein	20080618
+210	6383331	mobC	pHP69_p09	-	-	-	-	involved in formation of nic	protein-coding	-	-	-	MobC	20080618
+210	6383332	mobA	pHP69_p06	-	-	-	-	MobA; single strand plasmid DNA transfer protein	protein-coding	-	-	-	relaxase	20080618
+210	6383333	pHP69_p11	pHP69_p11	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+210	6383334	mccC	pHP69_p04	-	-	-	-	peptide exporter	protein-coding	-	-	-	MccC	20080618
+210	6383335	repA	pHP69_p01	-	-	-	-	replication initiation protein A	protein-coding	-	-	-	-	20080618
+210	6383336	mccB	pHP69_p05	-	-	-	-	peptide modification	protein-coding	-	-	-	MccB	20080618
+210	6383337	pHP69_p10	pHP69_p10	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+210	6383338	pHP69_p03	pHP69_p03	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+210	6383339	mobD	pHP69_p07	-	-	-	-	MobD	protein-coding	-	-	-	-	20080618
+210	6384079	r2	pHP666_p7	-	-	-	-	27.6 kDa surface protein; putative cAMP-induced filamentation protein; Fic	protein-coding	-	-	-	R2	20080716
+210	6384080	f2	pHP666_p6	-	-	-	-	F2	protein-coding	-	-	-	-	20080716
+210	6384081	mobC	pHP666_p4	-	-	-	-	MobC; mobilization protein	protein-coding	-	-	-	F5	20080716
+210	6384082	f4	pHP666_p1	-	-	-	-	putative replicase	protein-coding	-	-	-	F4	20080716
+210	6384083	r4	pHP666_p3	-	-	-	-	R4	protein-coding	-	-	-	-	20080716
+210	6384084	f3	pHP666_p9	-	-	-	-	F3	protein-coding	-	-	-	-	20080716
+210	6384085	mobA	pHP666_p5	-	-	-	-	MobA; mobilization protein	protein-coding	-	-	-	F1	20080716
+210	6384086	r3	pHP666_p2	-	-	-	-	R3	protein-coding	-	-	-	-	20080716
+210	6384087	repA	pHP666_p8	-	-	-	-	RepA replicase	protein-coding	-	-	-	R1	20080716
+212	4178312	NEWENTRY	-	-	-	-	-	"Record to support submission of GeneRIFs for a gene not in Entrez Gene (Helicobacter acinonychis corrig. Eaton et al. 1993; Helicobacter acinonyx.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.)."	other	-	-	-	-	20060704
+228	3758875	NEWENTRY	-	-	-	-	-	"Record to support submission of GeneRIFs for a gene not in Entrez Gene (""Alteromonas marinopraesens"" (ZoBell and Upham 1944) Baumann et al. 1972; ""Vibrio haloplanktis"" ZoBell and Upham 1944; ""Vibrio marinopraesens"" ZoBell and Upham 1944; Alteromonas haloplanctis; Alteromonas haloplanktis; Alteromonas haloplanktis (ZoBell and Upham 1944) Reichelt and Baumann 1973 (Approved Lists 1980); Alteromonas marinopraesens; Pseudoalteromonas haloplanktis (ZoBell and Upham 1944) Gauthier et al. 1995; Vibrio haloplanktis; Vibrio marinopraesens.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.)."	other	-	-	-	-	20080816
+235	4238482	NEWENTRY	-	-	-	-	-	"Record to support submission of GeneRIFs for a gene not in Entrez Gene (""Bacillus of abortion"" Bang 1897; ""Bacterium abortus"" Schmidt in Schmidt and Weis 1901; Bacterium abortus; Brucella abortus (Schmidt 1901) Meyer and Shaw 1920 (Approved Lists 1980); Brucella melitensis (Hughes 1893) Meyer and Shaw 1920 (Approved Lists 1980) emend. Verger et al. 1985, biovar Abortus; Brucella melitensis biovar Abortus; Brucella melitensis bv. Abortus.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.)."	other	-	-	-	-	20080517
+236	5220341	NEWENTRY	-	-	-	-	-	"Record to support submission of GeneRIFs for a gene not in Entrez Gene (Brucella melitensis (Hughes 1893) Meyer and Shaw 1920 (Approved Lists 1980) emend. Verger et al. 1985, biovar Ovis; Brucella melitensis biovar Ovis; Brucella melitensis bv. Ovis; Brucella ovis Buddle 1956 (Approved Lists 1980); Brucella ovis.; not ""Brucella ovis"" van Drimmelen 1953.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.)."	other	-	-	-	-	20070607
+239	3361672	pFL1_01	pFL1_01	-	-	-	-	similar to self-replication proteins (Rep) of plasmids belong to a subgroup of Staphyloccocus plasmid pSN2 family	protein-coding	-	-	-	hypothetical protein	20071005
+239	3361673	pFL1_02	pFL1_02	-	-	-	-	Similar to plasmid recombinant protein (Pre) of Staphylococcus aureus plasmid pT181	protein-coding	-	-	-	hypothetical protein	20080513
+239	3759984	NEWENTRY	-	-	-	-	-	"Record to support submission of GeneRIFs for a gene not in Entrez Gene (Flavibacterium sp..  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.)."	other	-	-	-	-	20080804
+263	874673	tetC	pOM1_03	-	-	-	-	tetracycline-resistance protein	protein-coding	-	-	-	-	20080510
+263	2827871	NEWENTRY	-	-	-	-	-	"Record to support submission of GeneRIFs for a gene not in Entrez Gene (""Bacterium tularense"" McCoy and Chapin 1912; ""Brucella tularensis"" (McCoy and Chapin 1912) Topley and Wilson 1929; ""Francisella tularense"" (sic) (McCoy and Chapin 1912) Dorofe'ev 1947; ""Pasteurella tularensis"" (McCoy and Chapin 1912) Bergey et al. 1923; Bacterium tularense; Brucella tularensis; Francisella tularense; Francisella tularensis (McCoy and Chapin 1912) Dorofe'ev 1947; Pasteurella tularensis.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.)."	other	-	-	-	-	20080809
+263	3722213	pOM1_01	pOM1_01	-	-	-	-	Orf2	protein-coding	-	-	-	hypothetical protein	20071006
+263	3722214	pOM1_02	pOM1_02	-	-	-	-	Orf1	protein-coding	-	-	-	hypothetical protein	20080716
+263	3722215	pOM1_04	pOM1_04	-	-	-	-	Orf3	protein-coding	-	-	-	hypothetical protein	20080510
+264	1343173	repA	pFNL10_p2	-	-	-	-	orf1	protein-coding	-	-	-	RepA protein	20080510
+264	1343174	phd	pFNL10_p3	-	-	-	-	orf5	protein-coding	-	-	-	putative Phd protein	20080510
+264	2827873	NEWENTRY	-	-	-	-	-	"Record to support submission of GeneRIFs for a gene not in Entrez Gene (Francisella tularensis (var. novicida); Francisella tularensis biogroup novicida; Francisella tularensis bv. novicida; Francisella tularensis subsp. novicida; Francisella tularensis var. novicida; Pasteurella novicida.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.)."	other	-	-	-	-	20080722
+264	4267387	pFNL10_p1	pFNL10_p1	-	-	-	-	orf2	protein-coding	-	-	-	RepB protein	20071129
+264	4267388	pFNL10_p4	pFNL10_p4	-	-	-	-	orf4	protein-coding	-	-	-	putative Doc protein	20080510
+264	4267389	pFNL10_p6	pFNL10_p6	-	-	-	-	orf3	protein-coding	-	-	-	hypothetical protein	20080510
+264	4267390	pFNL10_p5	pFNL10_p5	-	-	-	-	orfm	protein-coding	-	-	-	hypothetical protein	20071129
+266	4594721	NEWENTRY	-	-	-	-	-	"Record to support submission of GeneRIFs for a gene not in Entrez Gene (Micrococcus denitrificans; Paracoccus denitrificans (Beijerinck and Minkman 1910) Davis 1969 (Approved Lists 1980) emend. Ludwig et al. 1993; Paracoccus denitrificans (Beijerinck and Minkman 1910) Davis 1969 (Approved Lists 1980) emend. Nokhal and Schlegel 1983; Paracoccus denitrificans (Beijerinck and Minkman 1910) Davis 1969 (Approved Lists 1980) emend. Rainey et al. 1999; Paracoccus denitrificans (subsp. thiosphaera pantotropha); Paracoccus dentrificans.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.)."	other	-	-	-	-	20080628
+274	2760918	pasA	pTT8_p5	-	-	-	-	anti-toxin-like protein	protein-coding	-	-	-	-	20071005
+274	2760919	pasB	pTT8_p6	-	-	-	-	toxin-like protein	protein-coding	-	-	-	-	20080510
+274	2760920	repA	pTT8_p7	-	-	-	-	putative replicon protein	protein-coding	-	-	-	-	20080510
+274	2827875	NEWENTRY	-	-	-	-	-	"Record to support submission of GeneRIFs for a gene not in Entrez Gene (""Thermus thermophilus"" Oshima and Imahori 1974; Flavobacterium thermophilum; Thermua flavus; Thermus aquaticus (SUBSP. FLAVUS); Thermus aquaticus (SUBSP. THERMOPHILUS); Thermus aquaticus flavus; Thermus aquaticus subsp. thermophilus; Thermus aquaticus thermophilus; Thermus flavus; Thermus themophilus; Thermus thermophilus (ex Oshima and Imahori 1974) Manaia et al. 1995.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.)."	other	-	-	-	-	20080719
+274	4267392	pTT8_p1	pTT8_p1	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071129
+274	4267393	pTT8_p2	pTT8_p2	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071129
+274	4267394	pTT8_p3	pTT8_p3	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071129
+274	4267395	pTT8_p4	pTT8_p4	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071129
+274	4267396	pTT8_p8	pTT8_p8	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071129
+274	5951102	pTF62_00010	pTF62_00010	-	-	-	-	anti-toxin-like protein	protein-coding	-	-	-	-	20080716
+274	5951103	pTF62_00060	pTF62_00060	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080305
+274	5951104	pTF62_00035	pTF62_00035	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080305
+274	5951105	pTF62_00005	pTF62_00005	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080305
+274	5951106	pTF62_00040	pTF62_00040	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080305
+274	5951107	pTF62_00050	pTF62_00050	-	-	-	-	multidrug ABC transporter ATP-binding protein	protein-coding	-	-	-	-	20080716
+274	5951108	pTF62_00020	pTF62_00020	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080305
+274	5951109	pTF62_00065	pTF62_00065	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080305
+274	5951110	pTF62_00045	pTF62_00045	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080305
+274	5951111	pTF62_00075	pTF62_00075	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080305
+274	5951112	pTF62_00015	pTF62_00015	-	-	-	-	toxin-like protein	protein-coding	-	-	-	-	20080520
+274	5951113	pTF62_00055	pTF62_00055	-	-	-	-	multidrug ABC transporter (permease)	protein-coding	-	-	-	-	20080305
+274	5951114	pTF62_00070	pTF62_00070	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080305
+274	5951115	pTF62_00030	pTF62_00030	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080305
+274	5951116	pTF62_00025	pTF62_00025	-	-	-	-	putative RepA protein	protein-coding	-	-	-	-	20080520
+280	5469282	NEWENTRY	-	-	-	-	-	"Record to support submission of GeneRIFs for a gene not in Entrez Gene (""Corynebacterium autotrophicum"" Baumgarten et al. 1974; Corynebacterium autotrophicum; Xanthobacter autotrophicus (Baumgarten et al. 1974) Wiegel et al. 1978.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.)."	other	-	-	-	-	20070802
+285	5951118	pPT1_00015	pPT1_00015	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080304
+285	5951119	pPT1_00045	pPT1_00045	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080304
+285	5951120	pPT1_00035	pPT1_00035	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080304
+285	5951121	pPT1_00025	pPT1_00025	-	-	-	-	ParA protein	protein-coding	-	-	-	-	20080517
+285	5951122	pPT1_00040	pPT1_00040	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080304
+285	5951123	pPT1_00075	pPT1_00075	-	-	-	-	"transposase, IS4 family protein"	protein-coding	-	-	-	-	20080517
+285	5951124	pPT1_00065	pPT1_00065	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080517
+285	5951125	pPT1_00030	pPT1_00030	-	-	-	-	replication protein A	protein-coding	-	-	-	-	20080517
+285	5951126	pPT1_00100	pPT1_00100	-	-	-	-	"phosphonate ABC transporter, inner membrane subunit"	protein-coding	-	-	-	-	20080520
+285	5951127	pPT1_00085	pPT1_00085	-	-	-	-	"transcriptional regulator, LysR family protein"	protein-coding	-	-	-	-	20080517
+285	5951128	pPT1_00055	pPT1_00055	-	-	-	-	MobA/MobL protein	protein-coding	-	-	-	-	20080517
+285	5951129	pPT1_00010	pPT1_00010	-	-	-	-	transposase IS3/IS911 family protein	protein-coding	-	-	-	-	20080517
+285	5951130	pPT1_00060	pPT1_00060	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080304
+285	5951131	pPT1_00095	pPT1_00095	-	-	-	-	"phosphonate ABC transporter, periplasmic phosphonate-binding protein"	protein-coding	-	-	-	-	20080517
+285	5951132	pPT1_00020	pPT1_00020	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080304
+285	5951133	pPT1_00105	pPT1_00105	-	-	-	-	D-isomer specific 2-hydroxyacid dehydrogenase NAD-binding protein	protein-coding	-	-	-	-	20080517
+285	5951134	pPT1_00050	pPT1_00050	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080304
+285	5951135	pPT1_00070	pPT1_00070	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080517
+285	5951136	pPT1_00090	pPT1_00090	-	-	-	-	"phosphonate ABC transporter, ATPase subunit"	protein-coding	-	-	-	-	20080517
+285	5951137	pPT1_00080	pPT1_00080	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080304
+285	5951138	pPT1_00005	pPT1_00005	-	-	-	-	putative integrase	protein-coding	-	-	-	-	20080517
+285	5955546	NEWENTRY	-	-	-	-	-	"Record to support submission of GeneRIFs for a gene not in Entrez Gene (Comamonas testosteroni (Marcus and Talalay 1956) Tamaoka et al. 1987 emend. Willems et al. 1991; Pseudomonas testosteroni; Pseudomonas testosteroni Marcus and Talalay 1956 (Approved Lists 1980).  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.)."	other	-	-	-	-	20080804
+287	2827877	NEWENTRY	-	-	-	-	-	"Record to support submission of GeneRIFs for a gene not in Entrez Gene (""Bacillus aeruginosus"" (Schroeter 1872) Trevisan 1885; ""Bacillus pyocyaneus"" (Zopf 1884) Flugge 1886; ""Bacterium aeruginosum"" Cohn 1872; ""Bacterium aeruginosum"" Schroeter 1872; ""Bacterium pyocyaneum"" (Zopf 1884) Lehmann and Neumann 1896; ""Micrococcus pyocyaneus"" Zopf 1884; ""Pseudomonas pyocyanea"" (Zopf 1884) Migula 1895; Bacillus aeruginosus; Bacillus pyocyaneus; Bacterium aeruginosum; Bacterium pyocyaneum; Micrococcus pyocyaneus; Peudomonas aeruginosa; Pseudomonas aeruginosa (Schroeter 1872) Migula 1900; Pseudomonas polycolor; Pseudomonas pyocyanea; probable synonym or variety: ""Pseudomonas polycolor"" Clara 1930.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.)."	other	-	-	-	-	20080809
+287	3399410	'istA-1	Rms149_p02	-	-	-	-	pseudo	pseudo	-	-	-	-	20070822
+287	3399411	aac(3)-I	Rms149_p08	-	-	-	-	aminoglycoside acetyltransferase	protein-coding	-	-	-	-	20080513
+287	3399412	aafa5	Rms149_p07	-	-	-	-	aminoglycoside resistance protein	protein-coding	-	-	-	-	20080716
+287	3399413	blaA	Rms149_p42	-	-	-	-	class-A beta-lactamase	protein-coding	-	-	-	-	20080716
+287	3399414	gipA	Rms149_p41	-	-	-	-	putative transposase	protein-coding	-	-	-	-	20080513
+287	3399415	hlxB	Rms149_p19	-	-	-	-	fusion product	protein-coding	-	-	-	-	20071129
+287	3399416	hlyB	Rms149_p18	-	-	-	-	pseudo	pseudo	-	-	-	-	20070822
+287	3399417	hlyD	Rms149_p21	-	-	-	-	HlyD family secretion protein	protein-coding	-	-	-	-	20080716
+287	3399418	hlyH	Rms149_p22	-	-	-	-	putative glycosyltransferase	protein-coding	-	-	-	-	20080513
+287	3399419	hlyI	Rms149_p23	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071129
+287	3399420	hlyJ	Rms149_p24	-	-	-	-	HlyJ haemolysin-like protein	protein-coding	-	-	-	-	20080513
+287	3399421	intI1	Rms149_p09	-	-	-	-	IntI1 DNA integrase	protein-coding	-	-	-	-	20080716
+287	3399422	invA	Rms149_p40	-	-	-	-	putative DNA invertase	protein-coding	-	-	-	-	20080516
+287	3399423	istA-2	Rms149_p16	-	-	-	-	transposase subunit A	protein-coding	-	-	-	-	20080516
+287	3399424	istB-1	Rms149_p03	-	-	-	-	IstB-1 transposition-associated protein	protein-coding	-	-	-	-	20080716
+287	3399425	istB-2	Rms149_p15	-	-	-	-	transposase subunit B	protein-coding	-	-	-	-	20071129
+287	3399426	kfrA	Rms149_p44	-	-	-	-	KfrA-like protein	protein-coding	-	-	-	-	20071129
+287	3399427	mobA	Rms149_p25	-	-	-	-	MobA mobilisation protein	protein-coding	-	-	-	-	20080513
+287	3399428	mobB	Rms149_p27	-	-	-	-	MobB mobilisation protein	protein-coding	-	-	-	-	20071129
+287	3399429	mobC	Rms149_p28	-	-	-	-	MobC mobilisation protein	protein-coding	-	-	-	-	20071129
+287	3399430	mobD	Rms149_p29	-	-	-	-	MobD mobilisation protein	protein-coding	-	-	-	-	20071129
+287	3399431	mobE	Rms149_p30	-	-	-	-	MobE mobilisation protein	protein-coding	-	-	-	-	20071129
+287	3399432	ofn10	Rms149_p11	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071129
+287	3399433	ofn11	Rms149_p12	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071129
+287	3399434	ofn12	Rms149_p13	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071129
+287	3399435	ofn15	Rms149_p17	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071129
+287	3399436	ofn30	Rms149_p34	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071129
+287	3399437	ofn31	Rms149_p35	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080522
+287	3399438	ofn32	Rms149_p36	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+287	3399439	ofn34	Rms149_p38	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080520
+287	3399440	ofn35	Rms149_p39	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080513
+287	3399441	ofn41	Rms149_p47	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071208
+287	3399442	ofn42	Rms149_p48	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071129
+287	3399443	ofn43	Rms149_p49	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071129
+287	3399444	ofn44	Rms149_p50	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071129
+287	3399445	ofn45	Rms149_p51	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071129
+287	3399446	ofn46	Rms149_p52	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071129
+287	3399447	ofn47	Rms149_p53	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080516
+287	3399448	ofxX	Rms149_p32	-	-	-	-	OfxX fusion product	protein-coding	-	-	-	-	20071129
+287	3399449	orf5	Rms149_p04	-	-	-	-	Orf5	protein-coding	-	-	-	-	20080716
+287	3399450	orfX'	Rms149_p31	-	-	-	-	pseudo	pseudo	-	-	-	-	20070822
+287	3399451	parA	Rms149_p01	-	-	-	-	ParA partitioning protein	protein-coding	-	-	-	-	20080516
+287	3399452	parB	Rms149_p60	-	-	-	-	ParB partitioning protein	protein-coding	-	-	-	-	20071129
+287	3399453	parC	Rms149_p59	-	-	-	-	"ParC, putative partitioning-associated protein"	protein-coding	-	-	-	-	20071129
+287	3399454	qacEdelta1	Rms149_p06	-	-	-	-	QacEdelta1 multidrug exporter	protein-coding	-	-	-	-	20080716
+287	3399455	repA	Rms149_p56	-	-	-	-	RepA replication protein	protein-coding	-	-	-	-	20071129
+287	3399456	repB	Rms149_p14	-	-	-	-	pseudo	pseudo	-	-	-	-	20070822
+287	3399457	rpxB	Rms149_p26	-	-	-	-	truncated RepB fusion protein	protein-coding	-	-	-	-	20071129
+287	3399458	sul1	Rms149_p05	-	-	-	-	dihydropteroate synthase	protein-coding	-	-	-	-	20080716
+287	3399459	tnpA-1	Rms149_p10	-	-	-	-	invertase/recombinase	protein-coding	-	-	-	-	20080716
+287	3399460	tnpA-2	Rms149_p20	-	-	-	-	transposase	protein-coding	-	-	-	-	20080513
+287	3399461	tnpA-3	Rms149_p33	-	-	-	-	TnpA transposase	protein-coding	-	-	-	-	20071129
+287	3399462	tnpA-4	Rms149_p37	-	-	-	-	transposition protein	protein-coding	-	-	-	-	20080716
+287	3399463	tnpA-5	Rms149_p43	-	-	-	-	putative transposase	protein-coding	-	-	-	-	20080517
+287	3399464	tnpA-6	Rms149_p55	-	-	-	-	transposase	protein-coding	-	-	-	-	20080510
+287	3399465	tnpR-6	Rms149_p54	-	-	-	-	resolvase	protein-coding	-	-	-	-	20080507
+287	4290805	'merA	pBS228_p052	-	-	-	-	pseudo	pseudo	-	-	-	-	20070822
+287	4290806	aadA1	pBS228_p077	-	-	-	-	aminoglycoside resistance protein	protein-coding	-	-	-	-	20080716
+287	4290807	aphA	pBS228_p067	-	-	-	-	pseudo	pseudo	-	-	-	-	20070822
+287	4290808	bla	pBS228_p012	-	-	-	-	Beta lactamase	protein-coding	-	-	-	-	20080716
+287	4290809	dfrA1	pBS228_p079	-	-	-	-	type I dihydrofolate reductase	protein-coding	-	-	-	-	20080716
+287	4290810	fiwA	pBS228_p045	-	-	-	-	FiwA protein	protein-coding	-	-	-	-	20071129
+287	4290811	incC1	pBS228_p102	-	-	-	-	"IncC partitioning protein, long form"	protein-coding	-	-	-	-	20080513
+287	4290812	incC2	pBS228_p103	-	-	-	-	"IncC partitioning protein, short form"	protein-coding	-	-	-	-	20080510
+287	4290813	intI2	pBS228_p080	-	-	-	-	pseudo	pseudo	-	-	-	-	20070822
+287	4290814	istA1	pBS228_p064	-	-	-	-	"IS21 transposase, long form"	protein-coding	-	-	-	-	20080514
+287	4290815	istA2	pBS228_p065	-	-	-	-	"IS21 transposase, short form"	protein-coding	-	-	-	-	20080514
+287	4290816	istB	pBS228_p066	-	-	-	-	IstB transposition protein	protein-coding	-	-	-	-	20080716
+287	4290817	kfrA	pBS228_p098	-	-	-	-	KfrA coiled-coil protein	protein-coding	-	-	-	-	20071129
+287	4290818	kfrB	pBS228_p097	upf54.8	-	-	-	KfrB protein	protein-coding	-	-	-	-	20071129
+287	4290819	kfrC	pBS228_p096	upf54.4	-	-	-	KfrC protein	protein-coding	-	-	-	-	20080513
+287	4290820	klaA	pBS228_p003	-	-	-	-	KlaA protein	protein-coding	-	-	-	-	20071129
+287	4290821	klaB	pBS228_p002	-	-	-	-	KlaB protein	protein-coding	-	-	-	-	20071129
+287	4290822	klaC	pBS228_p001	-	-	-	-	KlaC protein	protein-coding	-	-	-	-	20080510
+287	4290823	klcA	pBS228_p015	-	-	-	-	KlcA putative antirestriction protein	protein-coding	-	-	-	-	20071129
+287	4290824	klcB	pBS228_p011	-	-	-	-	pseudo	pseudo	-	-	-	-	20070822
+287	4290825	kleA	pBS228_p009	-	-	-	-	KleA protein	protein-coding	-	-	-	-	20071129
+287	4290826	kleB	pBS228_p008	-	-	-	-	KleB protein	protein-coding	-	-	-	-	20071129
+287	4290827	kleC	pBS228_p007	-	-	-	-	KleC protein	protein-coding	-	-	-	-	20071129
+287	4290828	kleD	pBS228_p006	-	-	-	-	KleD protein	protein-coding	-	-	-	-	20071129
+287	4290829	kleE	pBS228_p005	-	-	-	-	KleE protein	protein-coding	-	-	-	-	20071129
+287	4290830	kleF1	pBS228_p004	-	-	-	-	KleF protein	protein-coding	-	-	-	-	20071129
+287	4290831	korA	pBS228_p104	-	-	-	-	KorA repressor protein	protein-coding	-	-	-	-	20071129
+287	4290832	korB	pBS228_p101	-	-	-	-	KorB partitioning and repressor protein	protein-coding	-	-	-	-	20080510
+287	4290833	korC	pBS228_p010	-	-	-	-	KorC repressor protein	protein-coding	-	-	-	-	20071129
+287	4290834	korF	pBS228_p100	-	-	-	-	KorF repressor protein	protein-coding	-	-	-	-	20071129
+287	4290835	korG	pBS228_p099	-	-	-	-	KorG protein	protein-coding	-	-	-	-	20071129
+287	4290836	merB	pBS228_p053	-	-	-	-	alkylmercury lyase	protein-coding	-	-	-	-	20071129
+287	4290837	merD	pBS228_p054	-	-	-	-	transcriptional regulator MerD	protein-coding	-	-	-	-	20080716
+287	4290838	merE	pBS228_p055	-	-	-	-	putative mercury resistance protein	protein-coding	-	-	-	-	20080716
+287	4290839	merR	pBS228_p051	-	-	-	-	putative transcriptional regulator MerR	protein-coding	-	-	-	-	20080716
+287	4290840	parA1	pBS228_p047	-	-	-	-	"ParA, long form"	protein-coding	-	-	-	-	20080510
+287	4290841	parA2	pBS228_p048	-	-	-	-	"ParA, short form"	protein-coding	-	-	-	-	20080510
+287	4290842	parB	pBS228_p049	-	-	-	-	rB nuclease	protein-coding	-	-	-	-	20071208
+287	4290843	parC	pBS228_p050	-	-	-	-	rC protein	protein-coding	-	-	-	-	20071129
+287	4290844	parD	pBS228_p061	-	-	-	-	rD antitoxin protein	protein-coding	-	-	-	-	20071129
+287	4290845	parE	pBS228_p062	-	-	-	-	rE toxin	protein-coding	-	-	-	-	20080510
+287	4290846	pecM	pBS228_p018	upf16.5	-	-	-	PecM-like protein	protein-coding	-	-	-	-	20080516
+287	4290847	sat2	pBS228_p078	-	-	-	-	streptothricin acetyltransferase	protein-coding	-	-	-	-	20080716
+287	4290848	ssb	pBS228_p021	-	-	-	-	single stranded DNA binding protein	protein-coding	-	-	-	-	20080716
+287	4290849	taoA	pBS228_p029	-	-	-	-	sulphate permease	protein-coding	-	-	-	-	20080514
+287	4290850	taoB	pBS228_p030	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080517
+287	4290851	taoC'	pBS228_p031	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071129
+287	4290852	taoD	pBS228_p032	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080516
+287	4290853	tetA	pBS228_p017	-	-	-	-	tetracycline exporter protein	protein-coding	-	-	-	-	20080716
+287	4290854	tetR	pBS228_p016	-	-	-	-	tetracycline resistance repressor protein	protein-coding	-	-	-	-	20080716
+287	4290855	tniA	pBS228_p060	-	-	-	-	TniA protein	protein-coding	-	-	-	-	20080514
+287	4290856	tniB	pBS228_p059	-	-	-	-	TniB protein	protein-coding	-	-	-	-	20071129
+287	4290857	tniM	pBS228_p056	-	-	-	-	TniM protein	protein-coding	-	-	-	-	20071129
+287	4290858	tniQ	pBS228_p058	-	-	-	-	TniQ protein	protein-coding	-	-	-	-	20080510
+287	4290859	tniR	pBS228_p057	-	-	-	-	TniR protein	protein-coding	-	-	-	-	20080513
+287	4290860	tnpA-1	pBS228_p014	-	-	-	-	Tn1 transposase	protein-coding	-	-	-	-	20080716
+287	4290861	tnpA-2	pBS228_p027	-	-	-	-	transposase	protein-coding	-	-	-	-	20071129
+287	4290862	tnpR-1	pBS228_p013	-	-	-	-	Tn1 resolvase	protein-coding	-	-	-	-	20080716
+287	4290863	tnpR-2	pBS228_p028	-	-	-	-	resolvase	protein-coding	-	-	-	-	20080516
+287	4290864	tnsA	pBS228_p068	-	-	-	-	transposase	protein-coding	-	-	-	-	20080510
+287	4290865	tnsB	pBS228_p069	-	-	-	-	transposase	protein-coding	-	-	-	-	20080510
+287	4290866	tnsC	pBS228_p070	-	-	-	-	ATP-binding protein	protein-coding	-	-	-	-	20080522
+287	4290867	tnsD	pBS228_p071	-	-	-	-	transposition protein D	protein-coding	-	-	-	-	20071129
+287	4290868	tnsE	pBS228_p072	-	-	-	-	transposition regulatory protein	protein-coding	-	-	-	-	20080716
+287	4290869	traA	pBS228_p081	-	-	-	-	TraA protein	protein-coding	-	-	-	-	20071129
+287	4290870	traB	pBS228_p082	-	-	-	-	TraB protein	protein-coding	-	-	-	-	20071129
+287	4290871	traC1	pBS228_p083	-	-	-	-	TraC DNA primase and ssDNA binding protein	protein-coding	-	-	-	-	20080510
+287	4290872	traC2	pBS228_p084	-	-	-	-	TraC DNA primase	protein-coding	-	-	-	-	20080510
+287	4290873	traD	pBS228_p085	-	-	-	-	TraD protein	protein-coding	-	-	-	-	20071129
+287	4290874	traE	pBS228_p086	-	-	-	-	TraE putative helicase	protein-coding	-	-	-	-	20080507
+287	4290875	traF	pBS228_p087	-	-	-	-	TraF protein	protein-coding	-	-	-	-	20080510
+287	4290876	traG	pBS228_p088	-	-	-	-	TraG protein	protein-coding	-	-	-	-	20080510
+287	4290877	traH	pBS228_p090	-	-	-	-	TraH protein	protein-coding	-	-	-	-	20071129
+287	4290878	traI	pBS228_p089	-	-	-	-	TraI DNA relaxase	protein-coding	-	-	-	-	20080510
+287	4290879	traJ	pBS228_p092	-	-	-	-	TraJ oriT recognising protein	protein-coding	-	-	-	-	20071129
+287	4290880	traK	pBS228_p093	-	-	-	-	TraK oriT binding protein	protein-coding	-	-	-	-	20071129
+287	4290881	traL	pBS228_p094	-	-	-	-	TraL protein	protein-coding	-	-	-	-	20080510
+287	4290882	traM	pBS228_p095	-	-	-	-	TraM protein	protein-coding	-	-	-	-	20071129
+287	4290883	traX	pBS228_p091	-	-	-	-	TraX protein	protein-coding	-	-	-	-	20071129
+287	4290884	trbA	pBS228_p022	-	-	-	-	TrbA repressor protein	protein-coding	-	-	-	-	20080513
+287	4290885	trbB	pBS228_p023	-	-	-	-	TrbB protein	protein-coding	-	-	-	-	20080513
+287	4290886	trbC	pBS228_p024	-	-	-	-	TrbC protein	protein-coding	-	-	-	-	20071129
+287	4290887	trbD	pBS228_p025	-	-	-	-	TrbD protein	protein-coding	-	-	-	-	20080510
+287	4290888	trbE	pBS228_p026	-	-	-	-	pseudo	pseudo	-	-	-	-	20070822
+287	4290889	trbF	pBS228_p033	-	-	-	-	TrbF protein	protein-coding	-	-	-	-	20080510
+287	4290890	trbG	pBS228_p034	-	-	-	-	TrbG protein	protein-coding	-	-	-	-	20080510
+287	4290891	trbH	pBS228_p035	-	-	-	-	TrbH protein	protein-coding	-	-	-	-	20071129
+287	4290892	trbI	pBS228_p036	-	-	-	-	TrbI protein	protein-coding	-	-	-	-	20080510
+287	4290893	trbJ	pBS228_p037	-	-	-	-	TrbJ protein	protein-coding	-	-	-	-	20071129
+287	4290894	trbK	pBS228_p038	-	-	-	-	TrbK entry exclusion protein	protein-coding	-	-	-	-	20071129
+287	4290895	trbL	pBS228_p039	-	-	-	-	TrbL protein	protein-coding	-	-	-	-	20080510
+287	4290896	trbM	pBS228_p040	-	-	-	-	TrbM protein	protein-coding	-	-	-	-	20071129
+287	4290897	trbN	pBS228_p041	-	-	-	-	TrbN protein	protein-coding	-	-	-	-	20080510
+287	4290898	trbO	pBS228_p042	-	-	-	-	TrbO protein	protein-coding	-	-	-	-	20071129
+287	4290899	trbP	pBS228_p043	-	-	-	-	TrbP protein	protein-coding	-	-	-	-	20071129
+287	4290900	trfA1	pBS228_p019	-	-	-	-	"TrfA2 replication protein, long form"	protein-coding	-	-	-	-	20080716
+287	4290901	trfA2	pBS228_p020	-	-	-	-	"TrfA2 replication protein, short form"	protein-coding	-	-	-	-	20080716
+287	4290902	upf31.7	pBS228_p044	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071129
+287	4290903	upf32.8	pBS228_p046	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+287	4290904	upf35.8	pBS228_p063	-	-	-	-	pseudo	pseudo	-	-	-	-	20070822
+287	4290905	ybeA	pBS228_p076	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+287	4290906	ybfA	pBS228_p075	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+287	4290907	ybfB	pBS228_p074	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+287	4290908	ybgA	pBS228_p073	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071129
+287	5495333	rE	pMATVM7_13	-	-	-	-	rE protein	protein-coding	-	-	-	-	20080517
+287	5495334	merA	pMATVM7_04	-	-	-	-	putative mercuric reductase	protein-coding	-	-	-	-	20080716
+287	5495335	merP	pMATVM7_07	-	-	-	-	MerP protein	protein-coding	-	-	-	-	20080517
+287	5495336	tnpA15	pMATVM7_15	-	-	-	-	transposase	protein-coding	-	-	-	-	20080517
+287	5495337	tnpR	pMATVM7_17	-	-	-	-	resolvase	protein-coding	-	-	-	-	20080520
+287	5495338	merR	pMATVM7_08	-	-	-	-	putative transcriptional regulator MerR	protein-coding	-	-	-	-	20080716
+287	5495339	kfrA	pMATVM7_03	-	-	-	-	KfrA protein	protein-coding	-	-	-	-	20071129
+287	5495340	pMATVM7_28	pMATVM7_28	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071129
+287	5495341	intI1	pMATVM7_02	-	-	-	-	integrase	protein-coding	-	-	-	-	20080716
+287	5495342	pMATVM7_29	pMATVM7_29	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071129
+287	5495343	yacA	pMATVM7_24	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071129
+287	5495344	trbk	pMATVM7_22	-	-	-	-	Trbk protein	protein-coding	-	-	-	-	20071129
+287	5495345	pMATVM7_27	pMATVM7_27	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080510
+287	5495346	rA1	pMATVM7_11	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080510
+287	5495347	blaVIM-7	pMATVM7_01	-	-	-	-	metallo-beta-lactamase VIM-7	protein-coding	-	-	-	-	20080716
+287	5495348	pMATVM7_25	pMATVM7_25	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071129
+287	5495349	traK	pMATVM7_20	-	-	-	-	TraK protein	protein-coding	-	-	-	-	20071129
+287	5495350	pMATVM7_26	pMATVM7_26	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071129
+287	5495351	rA	pMATVM7_10	-	-	-	-	resolvase	protein-coding	-	-	-	-	20080517
+287	5495352	trbJ	pMATVM7_21	-	-	-	-	Trbj protein	protein-coding	-	-	-	-	20071129
+287	5495353	merE	pMATVM7_06	-	-	-	-	putative mercury resistance protein	protein-coding	-	-	-	-	20080716
+287	5495354	merT	pMATVM7_09	-	-	-	-	putative mercuric transport protein	protein-coding	-	-	-	-	20080716
+287	5495355	traJ	pMATVM7_19	-	-	-	-	TraJ protein	protein-coding	-	-	-	-	20071129
+287	5495356	repA	pMATVM7_14	-	-	-	-	replication protein	protein-coding	-	-	-	-	20071129
+287	5495357	rC	pMATVM7_12	-	-	-	-	putative partition protein	protein-coding	-	-	-	-	20071129
+287	5495358	tnpM	pMATVM7_16	-	-	-	-	transposase modulator	protein-coding	-	-	-	-	20071129
+287	5495359	trbL	pMATVM7_23	-	-	-	-	TrbL protein	protein-coding	-	-	-	-	20080517
+287	5495360	merD	pMATVM7_05	-	-	-	-	transcriptional regulator MerD	protein-coding	-	-	-	-	20080716
+287	5495361	traI	pMATVM7_18	-	-	-	-	TraI protein	protein-coding	-	-	-	-	20080520
+287	6320670	repA	pMM1_01	-	-	-	-	rep	protein-coding	-	-	-	-	20080716
+288	4178314	NEWENTRY	-	-	-	-	-	"Record to support submission of GeneRIFs for a gene not in Entrez Gene (Alteromonas atlantica; Pseudoalteromonas atlantica (Akagawa-Matsushita et al. 1992) Gauthier et al. 1995; Pseudomonas atlantica.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.)."	other	-	-	-	-	20060704
+292	4357605	NEWENTRY	-	-	-	-	-	"Record to support submission of GeneRIFs for a gene not in Entrez Gene (""Pseudomonas cepacia"" Burkholder 1950; ""Pseudomonas multivorans"" Stanier et al. 1966; Burgholderia cepacia; Burkholderia capacia; Burkholderia cepacia (Palleroni and Holmes 1981) Yabuuchi et al. 1993; Burkholderia cepacia genomovar I; Pseudomonas cepacia; Pseudomonas cepacia (ex Burkholder 1950) Palleroni and Holmes 1981; Pseudomonas kingii; Pseudomonas multivorans.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.)."	other	-	-	-	-	20071110
+292	5787373	PPC1_p1	PPC1_p1	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080507
+294	3758879	NEWENTRY	-	-	-	-	-	"Record to support submission of GeneRIFs for a gene not in Entrez Gene (""Bacillus fluorescens liquefaciens"" Flugge 1886; ""Bacillus fluorescens"" Trevisan 1889; ""Bacterium fluorescens"" (Trevisan 1889) Lehmann and Neumann 1896; ""Liquidomonas fluorescens"" (Trevisan 1889) Orla-Jensen 1909; Bacillus fluorescens; Bacillus fluorescens liquefaciens; Bacterium fluorescen; Liquidomonas fluorescens; Pseudomonas fluorescens Migula 1895.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.)."	other	-	-	-	-	20080802
+300	5129995	NEWENTRY	-	-	-	-	-	"Record to support submission of GeneRIFs for a gene not in Entrez Gene (Pseudomonas mendocina Palleroni 1970.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.)."	other	-	-	-	-	20070510
+303	1218726	repA	pPP81_p4	-	-	-	-	replication protein	protein-coding	-	-	-	-	20080510
+303	1218727	dgkA	pWWO_p059	-	-	-	-	putative diacylglycerol kinase	protein-coding	-	-	-	-	20080507
+303	1218728	KorA	pWWO_p149	-	-	-	-	-	other	-	-	-	-	20060328
+303	1218729	korA	pWWO_p150	-	-	-	-	putative KorA protein	protein-coding	-	-	-	-	20071005
+303	1218730	korA2	pWWO_p036	-	-	-	-	putative transcriptional repressor	protein-coding	-	-	-	-	20071005
+303	1218731	tnpA	pWWO_p104	-	-	-	-	Tn4651 transposase	protein-coding	-	-	-	-	20080511
+303	1218732	tnpA	pWWO_p108	-	-	-	-	putative transposase	protein-coding	-	-	-	-	20080716
+303	1218733	tnpC	pWWO_p103	-	-	-	-	putative tnpA repressor TnpC	protein-coding	-	-	-	-	20080716
+303	1218734	tnpR	pWWO_p114	-	-	-	-	Tn4653 resolvase	protein-coding	-	-	-	-	20080716
+303	1218735	tnpR	pWWO_p045	-	-	-	-	putative resolvase	protein-coding	-	-	-	-	20080510
+303	1218737	traA	pWWO_p123	-	-	-	-	putative TraA protein	protein-coding	-	-	-	-	20071005
+303	1218738	traB	pWWO_p124	-	-	-	-	-	other	-	-	-	-	20060328
+303	1218739	traB	pWWO_p125	-	-	-	-	putative traB protein	protein-coding	-	-	-	-	20080507
+303	1218740	traC	pWWO_p126	-	-	-	-	putative TraC protein	protein-coding	-	-	-	-	20080510
+303	1218741	traD	pWWO_p122	-	-	-	-	putative TraD protein	protein-coding	-	-	-	-	20071005
+303	1218743	xylA	pWWO_p094	-	-	-	-	xylA	protein-coding	-	-	-	xylose isomerase	20080716
+303	1218744	xylB	pWWO_p093	-	-	-	-	xylB	protein-coding	-	-	-	xylulokinase	20080716
+303	1218745	xylC	pWWO_p096	-	-	-	-	xylC	protein-coding	-	-	-	benzaldehyde dehydrogenase	20080716
+303	1218746	xylE	pWWO_p074	-	-	-	-	xylE	protein-coding	-	-	-	"catechol 2,3-dioxygenase"	20080716
+303	1218747	xylF	pWWO_p072	-	-	-	-	xylF	protein-coding	-	-	-	"D-xylose ABC transporter, periplasmic D-xylose-binding protein"	20080716
+303	1218748	xylG	pWWO_p073	-	-	-	-	xylG	protein-coding	-	-	-	"D-xylose ABC transporter, ATP-binding protein"	20080716
+303	1218749	xylH	pWWO_p067	-	-	-	-	xylH	protein-coding	-	-	-	"ABC transporter, permease protein"	20080716
+303	1218750	xylI	pWWO_p068	-	-	-	-	xylI	protein-coding	-	-	-	4-oxalocrotonate decarboxylase	20080716
+303	1218751	xylJ	pWWO_p071	-	-	-	-	xylJ	protein-coding	-	-	-	"2-hydroxypent-2, 4-dienoate hydratase"	20080716
+303	1218752	xylK	pWWO_p069	-	-	-	-	xylK	protein-coding	-	-	-	4-hydroxy-2-ketovalerate aldolase	20080716
+303	1218753	benD	pWWO_p076	-	-	-	-	xylL	protein-coding	-	-	-	"1,6-dihydroxycyclohexa-2,4-diene-1-carboxylate dehydrogenase"	20080510
+303	1218754	xylM	pWWO_p095	-	-	-	-	xylM	protein-coding	-	-	-	xylene monooxygenase	20080716
+303	1218755	xylN	pWWO_p092	-	-	-	-	xylN	protein-coding	-	-	-	long-chain fatty acid transport protein	20080716
+303	1218756	xylQ	pWWO_p070	-	-	-	-	xylQ	protein-coding	-	-	-	acetaldehyde dehydrogenase	20080716
+303	1218757	xylR	pWWO_p065	-	-	-	-	xylR	protein-coding	-	-	-	xylose operon regulatory protein	20080716
+303	1218758	xylS	pWWO_p066	-	-	-	-	xylS	protein-coding	-	-	-	regulatory protein	20080716
+303	1218759	xylT	pWWO_p075	-	-	-	-	xylT	protein-coding	-	-	-	ferredoxin	20080716
+303	1218760	xylU	pWWO_p098	-	-	-	-	xylU	protein-coding	-	-	-	xylanase	20080716
+303	1218761	xylW	pWWO_p097	-	-	-	-	xylW	protein-coding	-	-	-	benzyl alcohol dehydrogenase	20080716
+303	1218762	xylX	pWWO_p079	-	-	-	-	xylX	protein-coding	-	-	-	"toluate 1,2-dioxygenase alpha subunit"	20080716
+303	1218763	xylY	pWWO_p078	-	-	-	-	xylY	protein-coding	-	-	-	"toluate 1,2-dioxygenase beta subunit"	20080716
+303	1218764	xylZ	pWWO_p077	-	-	-	-	xylZ	protein-coding	-	-	-	"toluate 1,2-dioxygenase electron transfer component"	20080716
+303	1218765	lspA	pWWO_p109	-	-	-	-	putative lipoprotein signal peptidase	protein-coding	-	-	-	-	20080716
+303	1218766	merB	pWWO_p112	-	-	-	-	truncated MerB protein	protein-coding	-	-	-	-	20071129
+303	1218767	merR	pWWO_p113	-	-	-	-	putative transcriptional regulator MerR	protein-coding	-	-	-	-	20080716
+303	1218768	mpfA	pWWO_p145	-	-	-	-	putative mating pair formation protein	protein-coding	-	-	-	-	20080510
+303	1218769	mpfB	pWWO_p143	-	-	-	-	putative mating pair formation protein	protein-coding	-	-	-	-	20080510
+303	1218770	mpfC	pWWO_p142	-	-	-	-	putative mating pair formation protein	protein-coding	-	-	-	-	20080716
+303	1218771	mpfC	pWWO_p144	-	-	-	-	-	other	-	-	-	-	20060328
+303	1218772	mpfD	pWWO_p141	-	-	-	-	putative mating pair formation protein	protein-coding	-	-	-	-	20071005
+303	1218773	mpfE	pWWO_p137	-	-	-	-	putative mating pair formation protein	protein-coding	-	-	-	-	20080510
+303	1218774	mpfF	pWWO_p136	-	-	-	-	putative mating pair formation protein	protein-coding	-	-	-	-	20080510
+303	1218775	mpfF	pWWO_p138	-	-	-	-	-	other	-	-	-	-	20060328
+303	1218776	mpfG	pWWO_p134	-	-	-	-	putative mating pair formation protein	protein-coding	-	-	-	-	20080510
+303	1218777	mpfH	pWWO_p133	-	-	-	-	putative mating pair formation protein	protein-coding	-	-	-	-	20080507
+303	1218778	mpfH	pWWO_p135	-	-	-	-	-	other	-	-	-	-	20060328
+303	1218779	mpfI	pWWO_p131	-	-	-	-	putative mating pair formation protein	protein-coding	-	-	-	-	20080507
+303	1218780	mpfJ	pWWO_p130	-	-	-	-	putative mating pair formation protein	protein-coding	-	-	-	-	20080510
+303	1218781	mpfJ	pWWO_p132	-	-	-	-	-	other	-	-	-	-	20060328
+303	1218782	ORF15	pWWO_p016	-	-	-	-	-	other	-	-	-	-	20060328
+303	1218784	oriV	pWWO_p003	-	-	-	-	-	other	-	-	-	-	20060328
+303	1218785	parA	pWWO_p147	-	-	-	-	putative ParA protein	protein-coding	-	-	-	-	20080510
+303	1218786	parB	pWWO_p148	-	-	-	-	putative ParB protein	protein-coding	-	-	-	-	20080510
+303	1218787	parC	pWWO_p001	-	-	-	-	parC	protein-coding	-	-	-	partitioning protein C	20071005
+303	1218790	recX	pWWO_p032	-	-	-	-	putative regulatory protein	protein-coding	-	-	-	-	20080716
+303	1218791	rep	pWWO_p004	-	-	-	-	rep	protein-coding	-	-	-	replication protein	20071005
+303	1218792	res	pWWO_p002	-	-	-	-	res	protein-coding	-	-	-	resolvase	20080510
+303	1218793	ruvA	pWWO_p010	-	-	-	-	ruvA	protein-coding	-	-	-	DNA replication and repair protein	20080510
+303	1218794	ruvB	pWWO_p009	-	-	-	-	ruvB	protein-coding	-	-	-	DNA replication and repair protein	20080510
+303	1218795	ruvB	pWWO_p011	-	-	-	-	-	other	-	-	-	-	20060328
+303	1218796	ssb	pWWO_p033	-	-	-	-	single-strand DNA-binding protein	protein-coding	-	-	-	-	20080510
+303	1218797	tnpA	pWWO_p060	-	-	-	-	putative IS1246 transposase	protein-coding	-	-	-	-	20080510
+303	1218798	tnpA	pWWO_p062	-	-	-	-	putative transposase	protein-coding	-	-	-	-	20080510
+303	1218799	tnpA	pWWO_p099	-	-	-	-	-	other	-	-	-	-	20060328
+303	1218800	tnpA	pWWO_p115	-	-	-	-	-	other	-	-	-	-	20060328
+303	1218801	tnpA	pWWO_p116	-	-	-	-	Tn4653 transposase	protein-coding	-	-	-	-	20071129
+303	1343177	nahG	pDTG1p53	-	-	-	-	salicylate hydroxylase	protein-coding	-	-	-	-	20071129
+303	1343178	parA	pDTG1p01	-	-	-	-	putative partition protein	protein-coding	-	-	-	hypothetical protein	20080716
+303	1343179	parB	pDTG1p02	-	-	-	-	putative partition protein	protein-coding	-	-	-	hypothetical protein	20080716
+303	1343180	parR	pDTG1p03	-	-	-	-	putative partition gene repressor	protein-coding	-	-	-	ParR	20071129
+303	1343181	res1	pDTG1p05	-	-	-	-	putative resolvase	protein-coding	-	-	-	-	20080510
+303	1343182	rep	pDTG1p06	-	-	-	-	putative replication protein	protein-coding	-	-	-	-	20071129
+303	1343183	ruvB1	pDTG1p12	-	-	-	-	putative ultraviolet light resistance protein B	protein-coding	-	-	-	-	20080510
+303	1343184	intA	pDTG1p14	-	-	-	-	putative integrase	protein-coding	-	-	-	-	20080510
+303	1343185	nahAa	pDTG1p17	-	-	-	-	"naphthalene 1,2-dioxygenase reductase component"	protein-coding	-	-	-	-	20080716
+303	1343186	nahAb	pDTG1p18	-	-	-	-	"naphthalene 1,2-dioxygenase ferredoxin component"	protein-coding	-	-	-	-	20080716
+303	1343187	nahAc	pDTG1p19	-	-	-	-	"naphthalene 1,2-dioxygenase iron sulfur protein component large subunit"	protein-coding	-	-	-	-	20080716
+303	1343188	nahAd	pDTG1p20	-	-	-	-	"naphthalene 1,2-dioxygenase iron sulfur protein component small subunit"	protein-coding	-	-	-	-	20080716
+303	1343189	nahB	pDTG1p21	-	-	-	-	"2,3-dihydroxy-2,3-dihydrophenylpropionate dehydrogenase"	protein-coding	-	-	-	-	20080510
+303	1343190	nahF	pDTG1p22	-	-	-	-	salicyladehyde dehydrogenase	protein-coding	-	-	-	-	20080716
+303	1343191	nahC	pDTG1p23	-	-	-	-	"1,2-dihydroxynaphthalene dioxygenase"	protein-coding	-	-	-	-	20080716
+303	1343192	nahQ	pDTG1p24	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080609
+303	1343193	nahE	pDTG1p25	-	-	-	-	trans-o-hydroxybenzylidenepyruvate hydratase-aldolase	protein-coding	-	-	-	-	20080716
+303	1343194	nahD	pDTG1p26	-	-	-	-	2-hydroxychromene-2-carboxylate isomerase	protein-coding	-	-	-	-	20080510
+303	1343195	res2	pDTG1p27	-	-	-	-	putative resolvase	protein-coding	-	-	-	-	20071129
+303	1343196	gst	pDTG1p30	-	-	-	-	putative gluthione S-transferase	protein-coding	-	-	-	-	20080510
+303	1343197	nahY	pDTG1p42	-	-	-	-	methyl-accepting chemotaxis protein	protein-coding	-	-	-	-	20080510
+303	1343198	nahJ	pDTG1p43	-	-	-	-	4-oxalocrotonate tautomerase	protein-coding	-	-	-	-	20080510
+303	1343199	nahK	pDTG1p44	-	-	-	-	4-oxalocrotonate decarboxylase	protein-coding	-	-	-	-	20080510
+303	1343200	nahM	pDTG1p45	-	-	-	-	4-hydroxy-2-ketovalerate aldolase	protein-coding	-	-	-	-	20080609
+303	1343201	nahO	pDTG1p46	-	-	-	-	acetaldehyde dehydrogenase	protein-coding	-	-	-	-	20071129
+303	1343202	nahL	pDTG1p47	-	-	-	-	2-oxypent-4-pentenoate hydratase	protein-coding	-	-	-	-	20080510
+303	1343203	nahN	pDTG1p48	-	-	-	-	2-hydroxymuconic semialdehyde hydrolase	protein-coding	-	-	-	-	20080510
+303	1343204	nahI	pDTG1p49	-	-	-	-	2-hydroxymuconic semialdehyde dehydrogenase	protein-coding	-	-	-	-	20080510
+303	1343205	nahH	pDTG1p50	-	-	-	-	"catechol 2,3-dioxygenase"	protein-coding	-	-	-	-	20080510
+303	1343206	nahT	pDTG1p51	-	-	-	-	ferredoxin	protein-coding	-	-	-	-	20080510
+303	1343207	tnpA	pDTG1p52	-	-	-	-	transposase	protein-coding	-	-	-	-	20080510
+303	1343208	nahR	pDTG1p54	-	-	-	-	naphthalene degradation LysR-family  transcriptional activator	protein-coding	-	-	-	NahR	20080510
+303	1343209	ruvB2	pDTG1p56	-	-	-	-	putative ultraviolet light resistance protein B	protein-coding	-	-	-	-	20071208
+303	1343210	ruvA	pDTG1p57	-	-	-	-	putative ultraviolet light resistance protein A	protein-coding	-	-	-	-	20080513
+303	1343211	ssb	pDTG1p61	-	-	-	-	single-strand DNA-binding protein	protein-coding	-	-	-	-	20080716
+303	1343212	traD	pDTG1p69	-	-	-	-	putative TraD protein	protein-coding	-	-	-	-	20071129
+303	1343213	traA	pDTG1p70	-	-	-	-	putative TraA protein	protein-coding	-	-	-	-	20071129
+303	1343214	traB	pDTG1p71	-	-	-	-	putative TraB protein	protein-coding	-	-	-	-	20080513
+303	1343215	traC	pDTG1p72	-	-	-	-	putative TraC protein	protein-coding	-	-	-	-	20080510
+303	1343216	mpfJ	pDTG1p78	-	-	-	-	putative mating pair formation protein	protein-coding	-	-	-	-	20080510
+303	1343217	mpfI	pDTG1p79	-	-	-	-	putative mating pair formation protein	protein-coding	-	-	-	-	20080510
+303	1343218	mpfH	pDTG1p80	-	-	-	-	putative mating pair formation protein	protein-coding	-	-	-	-	20080510
+303	1343219	mpfG	pDTG1p81	-	-	-	-	putative mating pair formation protein	protein-coding	-	-	-	-	20080510
+303	1343220	mpfF	pDTG1p82	-	-	-	-	putative mating pair formation protein	protein-coding	-	-	-	-	20080511
+303	1343221	mpfE	pDTG1p83	-	-	-	-	putative mating pair formation protein	protein-coding	-	-	-	-	20080510
+303	1343222	mpfD	pDTG1p86	-	-	-	-	putative mating pair formation protein	protein-coding	-	-	-	-	20071129
+303	1343223	mpfC	pDTG1p87	-	-	-	-	putative mating pair formation protein	protein-coding	-	-	-	-	20080507
+303	1343224	mpfB	pDTG1p88	-	-	-	-	putative mating pair formation protein	protein-coding	-	-	-	-	20080510
+303	1343225	mpfA	pDTG1p89	-	-	-	-	putative mating pair formation protein	protein-coding	-	-	-	-	20080609
+303	2827879	NEWENTRY	-	-	-	-	-	"Record to support submission of GeneRIFs for a gene not in Entrez Gene (""Bacillus fluorescens putidus"" Flugge 1886; ""Bacillus putidus"" Trevisan 1889; ""Pseudomonas convexa"" Chester 1901; ""Pseudomonas eisenbergii"" Migula 1900; ""Pseudomonas incognita"" Chester 1901; ""Pseudomonas ovalis"" Chester 1901; ""Pseudomonas rugosa"" (Wright 1895) Chester 1901; ""Pseudomonas striata"" Chester 1901; Arthrobacter siderocapsulatus; Arthrobacter siderocapsulatus Dubinin (sic) and Zhdanov 1975; Arthrobacter siderocapsulatus Dubinina and Zhdanov 1975 (Approved Lists 1980); Bacillus fluorescens putidus; Bacillus putidus; Pseudomanas putida; Pseudomonas arvilla; Pseudomonas convexa; Pseudomonas eisenbergii; Pseudomonas incognita; Pseudomonas ovalis; Pseudomonas putida (Trevisan 1889) Migula 1895; Pseudomonas rugosa; Pseudomonas striata.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.)."	other	-	-	-	-	20080726
+303	3126105	pDTG1p55	pDTG1p55	-	-	-	-	Orf545	protein-coding	-	-	-	hypothetical protein	20071129
+303	3126106	pDTG1p04	pDTG1p04	-	-	-	-	Orf25	protein-coding	-	-	-	hypothetical protein	20071129
+303	3126107	pDTG1p64	pDTG1p64	-	-	-	-	Orf597	protein-coding	-	-	-	putative regulatory protein	20071129
+303	3126108	pDTG1p58	pDTG1p58	-	-	-	-	Orf564	protein-coding	-	-	-	hypothetical protein	20071129
+303	3126109	pDTG1p65	pDTG1p65	-	-	-	-	Orf607	protein-coding	-	-	-	hypothetical protein	20071129
+303	3126110	pDTG1p37	pDTG1p37	-	-	-	-	Orf350	protein-coding	-	-	-	putative LysR-type transcriptional regulator	20080510
+303	3126111	pDTG1p74	pDTG1p74	-	-	-	-	Orf701	protein-coding	-	-	-	putative nuclease	20071129
+303	3126112	pDTG1p41	pDTG1p41	-	-	-	-	OrfA	protein-coding	-	-	-	putative transposase	20080510
+303	3126113	pDTG1p35	pDTG1p35	-	-	-	-	Orf329	protein-coding	-	-	-	hypothetical protein	20080507
+303	3126114	pDTG1p34	pDTG1p34	-	-	-	-	Orf325	protein-coding	-	-	-	hypothetical protein	20080510
+303	3126115	pDTG1p90	pDTG1p90	-	-	-	-	Orf826	protein-coding	-	-	-	hypothetical protein	20071129
+303	3126116	pDTG1p10	pDTG1p10	-	-	-	-	Orf77	protein-coding	-	-	-	hypothetical protein	20071129
+303	3126117	pDTG1p36	pDTG1p36	-	-	-	-	Orf343	protein-coding	-	-	-	hypothetical protein	20071129
+303	3126118	pDTG1p11	pDTG1p11	-	-	-	-	Orf81	protein-coding	-	-	-	hypothetical protein	20071129
+303	3126119	pDTG1p60	pDTG1p60	-	-	-	-	Orf572	protein-coding	-	-	-	putative regulatory protein	20071129
+303	3126120	pDTG1p07	pDTG1p07	-	-	-	-	Orf50	protein-coding	-	-	-	hypothetical protein	20071129
+303	3126121	pDTG1p68	pDTG1p68	-	-	-	-	Orf626	protein-coding	-	-	-	hypothetical protein	20071129
+303	3126122	pDTG1p73	pDTG1p73	-	-	-	-	Orf692	protein-coding	-	-	-	hypothetical protein	20071129
+303	3126123	pDTG1p66	pDTG1p66	-	-	-	-	Orf613	protein-coding	-	-	-	putative zinc metalloprotease	20071129
+303	3126124	pDTG1p28	pDTG1p28	-	-	-	-	Orf255	protein-coding	-	-	-	hypothetical protein	20071129
+303	3126125	pDTG1p38	pDTG1p38	-	-	-	-	Orf362	protein-coding	-	-	-	putative oxidoreductase	20080507
+303	3126126	pDTG1p15	pDTG1p15	-	-	-	-	Orf125	protein-coding	-	-	-	hypothetical protein	20071129
+303	3126127	pDTG1p16	pDTG1p16	-	-	-	-	Orf137	protein-coding	-	-	-	putative ligase fragment	20071129
+303	3126128	pDTG1p13	pDTG1p13	-	-	-	-	Orf107	protein-coding	-	-	-	hypothetical protein	20071129
+303	3126129	pDTG1p63	pDTG1p63	-	-	-	-	Orf592	protein-coding	-	-	-	hypothetical protein	20071129
+303	3126130	pDTG1p59	pDTG1p59	-	-	-	-	Orf567	protein-coding	-	-	-	hypothetical protein	20080513
+303	3126131	pDTG1p62	pDTG1p62	-	-	-	-	Orf584	protein-coding	-	-	-	putative F plasmid gene 32-like protein	20071129
+303	3126132	pDTG1p67	pDTG1p67	-	-	-	-	Orf621	protein-coding	-	-	-	hypothetical protein	20071129
+303	3126133	pDTG1p31	pDTG1p31	-	-	-	-	Orf273	protein-coding	-	-	-	putative oxidoreductase	20080510
+303	3126134	pDTG1p29	pDTG1p29	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080510
+303	3126135	pDTG1p75	pDTG1p75	-	-	-	-	Orf708	protein-coding	-	-	-	hypothetical protein	20071129
+303	3126136	pDTG1p76	pDTG1p76	-	-	-	-	Orf713	protein-coding	-	-	-	putative nuclease	20080510
+303	3126137	pDTG1p77	pDTG1p77	-	-	-	-	Orf719	protein-coding	-	-	-	hypothetical protein	20071129
+303	3126138	pDTG1p32	pDTG1p32	-	-	-	-	Orf288	protein-coding	-	-	-	putative oxidoreductase	20080511
+303	3126139	pDTG1p85	pDTG1p85	-	-	-	-	Orf783	protein-coding	-	-	-	hypothetical protein	20071129
+303	3126140	pDTG1p84	pDTG1p84	-	-	-	-	Orf778	protein-coding	-	-	-	hypothetical protein	20071129
+303	3126141	pDTG1p33	pDTG1p33	-	-	-	-	Orf315	protein-coding	-	-	-	hypothetical protein	20080510
+303	3126142	pDTG1p08	pDTG1p08	-	-	-	-	Orf61	protein-coding	-	-	-	hypothetical protein	20071129
+303	3126143	pDTG1p39	pDTG1p39	-	-	-	-	Orf371	protein-coding	-	-	-	hypothetical protein	20071129
+303	3126144	pDTG1p09	pDTG1p09	-	-	-	-	Orf68	protein-coding	-	-	-	hypothetical protein	20071129
+303	3126145	pDTG1p40	pDTG1p40	-	-	-	-	OrfB	protein-coding	-	-	-	putative transposase	20080510
+303	3353785	pWWO_p081	pWWO_p081	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080510
+303	3353786	pWWO_p111	pWWO_p111	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+303	3353787	pWWO_p087	pWWO_p087	-	-	-	-	putative transmembrane protein	protein-coding	-	-	-	-	20080513
+303	3353788	pWWO_p083	pWWO_p083	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353789	pWWO_p082	pWWO_p082	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353790	pWWO_p064	pWWO_p064	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353791	pWWO_p005	pWWO_p005	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353792	pWWO_p063	pWWO_p063	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353793	pWWO_p061	pWWO_p061	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080510
+303	3353794	pWWO_p117	pWWO_p117	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353795	pWWO_p080	pWWO_p080	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353796	pWWO_p050	pWWO_p050	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353797	pWWO_p119	pWWO_p119	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353798	pWWO_p090	pWWO_p090	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353799	pWWO_p120	pWWO_p120	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353800	pWWO_p107	pWWO_p107	-	-	-	-	putative multidrug exporter	protein-coding	-	-	-	-	20080716
+303	3353801	pWWO_p118	pWWO_p118	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353802	pWWO_p091	pWWO_p091	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353803	pWWO_p127	pWWO_p127	-	-	-	-	putative nuclease	protein-coding	-	-	-	-	20071005
+303	3353804	pWWO_p146	pWWO_p146	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353805	pWWO_p140	pWWO_p140	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353806	pWWO_p139	pWWO_p139	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353807	pWWO_p129	pWWO_p129	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353808	pWWO_p040	pWWO_p040	-	-	-	-	putative transcriptional regulator protein	protein-coding	-	-	-	-	20071005
+303	3353809	pWWO_p023	pWWO_p023	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353810	pWWO_p029	pWWO_p029	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353811	pWWO_p025	pWWO_p025	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080510
+303	3353812	pWWO_p110	pWWO_p110	-	-	-	-	putative transmembrane protein	protein-coding	-	-	-	-	20080716
+303	3353813	pWWO_p020	pWWO_p020	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080510
+303	3353814	pWWO_p049	pWWO_p049	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353815	pWWO_p088	pWWO_p088	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353816	pWWO_p106	pWWO_p106	-	-	-	-	putative drug resistance protein	protein-coding	-	-	-	-	20080510
+303	3353817	pWWO_p031	pWWO_p031	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353818	pWWO_p101	pWWO_p101	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353819	pWWO_p105	pWWO_p105	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353820	pWWO_p021	pWWO_p021	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353821	pWWO_p037	pWWO_p037	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353822	pWWO_p012	pWWO_p012	-	-	-	-	putative ligase	protein-coding	-	-	-	-	20080507
+303	3353823	pWWO_p058	pWWO_p058	-	-	-	-	putative integral membrane protein	protein-coding	-	-	-	-	20080510
+303	3353824	pWWO_p034	pWWO_p034	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353825	pWWO_p038	pWWO_p038	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353826	pWWO_p100	pWWO_p100	-	-	-	-	putative transmembrane protein	protein-coding	-	-	-	-	20080510
+303	3353827	pWWO_p102	pWWO_p102	-	-	-	-	putative transmembrane protein	protein-coding	-	-	-	-	20080510
+303	3353828	pWWO_p056	pWWO_p056	-	-	-	-	transposase subunit B	protein-coding	-	-	-	-	20080716
+303	3353829	pWWO_p022	pWWO_p022	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353830	pWWO_p084	pWWO_p084	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353831	pWWO_p041	pWWO_p041	-	-	-	-	putative reductase protein	protein-coding	-	-	-	-	20080510
+303	3353832	pWWO_p051	pWWO_p051	-	-	-	-	putative cointegrate resolution protein T	protein-coding	-	-	-	-	20071113
+303	3353833	pWWO_p035	pWWO_p035	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353834	pWWO_p018	pWWO_p018	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353835	pWWO_p030	pWWO_p030	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353836	pWWO_p048	pWWO_p048	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353837	pWWO_p128	pWWO_p128	-	-	-	-	putative nuclease	protein-coding	-	-	-	-	20080510
+303	3353838	pWWO_p017	pWWO_p017	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353839	pWWO_p047	pWWO_p047	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353840	pWWO_p057	pWWO_p057	-	-	-	-	transposase subunit A	protein-coding	-	-	-	-	20071017
+303	3353841	pWWO_p013	pWWO_p013	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353842	pWWO_p054	pWWO_p054	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080510
+303	3353843	pWWO_p024	pWWO_p024	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353844	pWWO_p007	pWWO_p007	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353845	pWWO_p028	pWWO_p028	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353846	pWWO_p044	pWWO_p044	-	-	-	-	putative transcription regulator protein	protein-coding	-	-	-	-	20080716
+303	3353847	pWWO_p027	pWWO_p027	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080510
+303	3353848	pWWO_p006	pWWO_p006	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353849	pWWO_p055	pWWO_p055	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353850	pWWO_p121	pWWO_p121	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353851	pWWO_p014	pWWO_p014	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353852	pWWO_p053	pWWO_p053	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353853	pWWO_p043	pWWO_p043	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071129
+303	3353854	pWWO_p086	pWWO_p086	-	-	-	-	putative transmembrane protein	protein-coding	-	-	-	-	20071005
+303	3353855	pWWO_p008	pWWO_p008	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071113
+303	3353856	pWWO_p089	pWWO_p089	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353857	pWWO_p046	pWWO_p046	-	-	-	-	putative transcription regulator	protein-coding	-	-	-	-	20080510
+303	3353858	pWWO_p085	pWWO_p085	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353859	pWWO_p019	pWWO_p019	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353860	pWWO_p052	pWWO_p052	-	-	-	-	putative cointegrate resolution protein S	protein-coding	-	-	-	-	20080507
+303	3353861	pWWO_p042	pWWO_p042	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080507
+303	3353862	pWWO_p015	pWWO_p015	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353863	pWWO_p026	pWWO_p026	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3353864	pWWO_p039	pWWO_p039	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071005
+303	3974160	orf25	NAH7_62	-	-	-	-	putative reductase protein	protein-coding	-	-	-	-	20080716
+303	3974161	orf22	NAH7_58	-	-	-	-	putative transcriptional regulator protein	protein-coding	-	-	-	-	20080716
+303	3974162	orf23	NAH7_59	-	-	-	-	putative serine/theronine protein phosphatase	protein-coding	-	-	-	-	20080716
+303	3974163	orf24	NAH7_60	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+303	3974164	orf26	NAH7_63	-	-	-	-	putative transcriptional regulator protein	protein-coding	-	-	-	-	20080716
+303	3974165	orf27	NAH7_64	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+303	3974166	orf28	NAH7_65	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+303	3974167	orf29	NAH7_66	-	-	-	-	putative sulfate permease protein	protein-coding	-	-	-	-	20080716
+303	3974168	orf3	NAH7_09	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+303	3974169	orf30	NAH7_67	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+303	3974170	orf31	NAH7_68	-	-	-	-	putative nuclease protein	protein-coding	-	-	-	-	20080716
+303	3974171	orf32	NAH7_69	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+303	3974172	orf33	NAH7_70	-	-	-	-	putative nuclease protein	protein-coding	-	-	-	-	20080716
+303	3974173	orf34	NAH7_71	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+303	3974174	orf35	NAH7_78	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+303	3974175	orf36	NAH7_79	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+303	3974176	orf37	NAH7_84	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+303	3974177	orf4	NAH7_12	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+303	3974178	orf5	NAH7_13	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+303	3974179	orf6	NAH7_14	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+303	3974180	orf7	NAH7_15	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+303	3974181	orf8	NAH7_16	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+303	3974182	orf9	NAH7_18	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+303	3974183	parA	NAH7_01	-	-	-	-	putative plasmid partitioning protein ParA	protein-coding	-	-	-	-	20080716
+303	3974184	parB	NAH7_02	-	-	-	-	putative plasmid partitioning protein ParB	protein-coding	-	-	-	-	20080716
+303	3974185	parC	NAH7_04	-	-	-	-	putative plasmid partitioning protein ParC	protein-coding	-	-	-	-	20080716
+303	3974186	parR	NAH7_03	-	-	-	-	putative partitioning gene repressor protein ParR	protein-coding	-	-	-	-	20080716
+303	3974187	rep	NAH7_06	-	-	-	-	plasmid replication-initiation protein Rep	protein-coding	-	-	-	-	20080716
+303	3974188	rsv	NAH7_05	-	-	-	-	putative resolvase	protein-coding	-	-	-	-	20080716
+303	3974189	ruvA	NAH7_11	-	-	-	-	putative ultraviolet light resistance B protein RuvA	protein-coding	-	-	-	-	20080716
+303	3974190	ruvB	NAH7_10	-	-	-	-	putative ultraviolet light resistance B protein RuvB	protein-coding	-	-	-	-	20080716
+303	3974191	ssb	NAH7_17	-	-	-	-	putative single strand binding protein Ssb	protein-coding	-	-	-	-	20080716
+303	3974192	tnpI	NAH7_61	-	-	-	-	integrase TnpI	protein-coding	-	-	-	-	20080716
+303	3974193	traA	NAH7_27	-	-	-	-	putative plasmid transfer protein TraA	protein-coding	-	-	-	-	20080716
+303	3974194	traB	NAH7_28	-	-	-	-	putative plasmid transfer protein TraB	protein-coding	-	-	-	-	20080716
+303	3974195	traC	NAH7_29	-	-	-	-	putative plasmid transfer protein TraC	protein-coding	-	-	-	-	20080716
+303	3974196	traD	NAH7_26	-	-	-	-	putative plasmid transfer protein TraD	protein-coding	-	-	-	-	20080716
+303	3974197	mpfA	NAH7_83	-	-	-	-	putative mating pair formation protein MpfA	protein-coding	-	-	-	-	20080716
+303	3974198	mpfB	NAH7_82	-	-	-	-	putative mating pair formation protein MpfB	protein-coding	-	-	-	-	20080716
+303	3974199	mpfC	NAH7_81	-	-	-	-	putative mating pair formation protein MpfC	protein-coding	-	-	-	-	20080716
+303	3974200	mpfD	NAH7_80	-	-	-	-	putative mating pair formation protein MpfD	protein-coding	-	-	-	-	20080716
+303	3974201	mpfE	NAH7_77	-	-	-	-	putative mating pair formation protein MpfE	protein-coding	-	-	-	-	20080716
+303	3974202	mpfF	NAH7_76	-	-	-	-	putative mating pair formation protein MpfF	protein-coding	-	-	-	-	20080716
+303	3974203	mpfG	NAH7_75	-	-	-	-	putative mating pair formation protein MpfG	protein-coding	-	-	-	-	20080716
+303	3974204	mpfH	NAH7_74	-	-	-	-	putative mating pair formation protein MpfH	protein-coding	-	-	-	-	20080716
+303	3974205	mpfI	NAH7_73	-	-	-	-	putative mating pair formation protein MpfI	protein-coding	-	-	-	-	20080716
+303	3974206	mpfJ	NAH7_72	-	-	-	-	putative mating pair formation protein MpfJ	protein-coding	-	-	-	-	20080716
+303	3974207	nahAa	NAH7_34	-	-	-	-	reductase component NahAa of naphthalene dioxygenase	protein-coding	-	-	-	-	20080716
+303	3974208	nahAb	NAH7_35	-	-	-	-	ferredoxin component NahAb of naphthalene dioxygenase	protein-coding	-	-	-	-	20080716
+303	3974209	nahAc	NAH7_36	-	-	-	-	napthalene dioxygenase iron sulfur protein large subunit	protein-coding	-	-	-	-	20080716
+303	3974210	nahAd	NAH7_37	-	-	-	-	iron sulfur protein small subunit NahAd of naphthalene dioxygenase	protein-coding	-	-	-	-	20080716
+303	3974211	nahB	NAH7_38	-	-	-	-	"2,3-dihydroxy-2,3-dihydrophenylpropionate dehydrogenase"	protein-coding	-	-	-	-	20080716
+303	3974212	nahC	NAH7_40	-	-	-	-	"1, 2-dihydroxynaphthalene dioxygenase NahC"	protein-coding	-	-	-	-	20080716
+303	3974213	nahD	NAH7_43	-	-	-	-	2-hydroxychromene-2-carboxylate isomerase NahD	protein-coding	-	-	-	-	20080716
+303	3974214	nahE	NAH7_42	-	-	-	-	trans-o-hydroxybenzylidenepyruvate hydratase-aldolase NahE	protein-coding	-	-	-	-	20080716
+303	3974215	nahF	NAH7_39	-	-	-	-	salicylaldehyde dehydrogenase NahF	protein-coding	-	-	-	-	20080716
+303	3974216	nahG	NAH7_45	-	-	-	-	salicylate hydroxylase NahG	protein-coding	-	-	-	-	20080716
+303	3974217	nahH	NAH7_47	-	-	-	-	"catechol-2, 3-dioxygenase NahH"	protein-coding	-	-	-	-	20080716
+303	3974218	nahI	NAH7_48	-	-	-	-	2-hydroxymuconic semialdehyde dehydrogenase NahI	protein-coding	-	-	-	-	20080716
+303	3974219	nahJ	NAH7_54	-	-	-	-	4-oxalocrotonate tautomerase NahJ	protein-coding	-	-	-	-	20080716
+303	3974220	nahK	NAH7_53	-	-	-	-	4-oxalocrotonate decarboxylase NahK	protein-coding	-	-	-	-	20080716
+303	3974221	nahL	NAH7_50	-	-	-	-	2-oxypent-4-enoate hydratase NahL	protein-coding	-	-	-	-	20080716
+303	3974222	nahM	NAH7_52	-	-	-	-	4-hydroxy-2-ketovalerate aldolase	protein-coding	-	-	-	-	20080716
+303	3974223	nahN	NAH7_49	-	-	-	-	2-hydroxymuconic semialdehyde hydrolase NahN	protein-coding	-	-	-	-	20080716
+303	3974224	nahO	NAH7_51	-	-	-	-	acetaldehyde dehydrogenase	protein-coding	-	-	-	-	20080716
+303	3974225	nahQ	NAH7_41	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+303	3974226	nahR	NAH7_44	-	-	-	-	transcriptional activator NahR	protein-coding	-	-	-	-	20080716
+303	3974227	nahT	NAH7_46	-	-	-	-	chloroplast-type ferredoxin NahT	protein-coding	-	-	-	-	20080716
+303	3974228	nahX	NAH7_55	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+303	3974229	nahY	NAH7_56	-	-	-	-	methyl-accepting chemotaxis protein NahY	protein-coding	-	-	-	-	20080716
+303	3974230	orf1	NAH7_07	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+303	3974231	orf10	NAH7_19	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+303	3974232	orf11	NAH7_20	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+303	3974233	orf12	NAH7_21	-	-	-	-	putative transcriptional regulator protein	protein-coding	-	-	-	-	20080716
+303	3974234	orf13	NAH7_22	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+303	3974235	orf14	NAH7_23	-	-	-	-	putative zinc metalloprotease protein	protein-coding	-	-	-	-	20080716
+303	3974236	orf15	NAH7_24	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+303	3974237	orf16	NAH7_25	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+303	3974238	orf17	NAH7_30	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+303	3974239	orf18	NAH7_31	-	-	-	-	putative nudix hydrolase	protein-coding	-	-	-	-	20080716
+303	3974240	orf19	NAH7_32	-	-	-	-	putative aldo/keto reductase protein	protein-coding	-	-	-	-	20080716
+303	3974241	orf2	NAH7_08	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+303	3974242	orf20	NAH7_33	-	-	-	-	putative dehydrogenase/reductase protein	protein-coding	-	-	-	-	20080716
+303	3974243	orf21	NAH7_57	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+303	4226916	klaB	pWW53_37	-	-	-	-	putative tellurite resistance protein	protein-coding	-	-	-	-	20071129
+303	4226917	klaC	pWW53_38	-	-	-	-	putative tellurite resistance protein	protein-coding	-	-	-	-	20071129
+303	4226918	parA	pWW53_03	-	-	-	-	putative partitioning protein	protein-coding	-	-	-	-	20080514
+303	4226919	parB	pWW53_04	-	-	-	-	putative partitioning protein	protein-coding	-	-	-	-	20080510
+303	4226920	parBII	pWW53_25	-	-	-	-	putative chromosome partitioning protein	protein-coding	-	-	-	-	20080514
+303	4226921	parC	pWW53_05	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071129
+303	4226922	parW	pWW53_02	-	-	-	-	putative partitioning protein	protein-coding	-	-	-	-	20071129
+303	4226923	xylEII	pWW53_74	-	-	-	-	"catechol 2,3-dioxygenase"	protein-coding	-	-	-	-	20080716
+303	4226924	xylFI	pWW53_51	-	-	-	-	2-hydroxymuconic semialdehyde hydrolase	protein-coding	-	-	-	-	20080514
+303	4226925	xylFII	pWW53_76	-	-	-	-	2-hydroxymuconic semialdehyde hydrolase	protein-coding	-	-	-	-	20080514
+303	4226926	xylGI	pWW53_50	-	-	-	-	2-hydroxymuconic semialdehyde dehydrogenase	protein-coding	-	-	-	-	20080514
+303	4226927	xylGII	pWW53_75	-	-	-	-	2-hydroxymuconic semialdehyde dehydrogenase	protein-coding	-	-	-	-	20080516
+303	4226928	xylHI	pWW53_56	-	-	-	-	4-oxalocrotonate tautomerase	protein-coding	-	-	-	-	20071209
+303	4226929	xylHII	pWW53_81	-	-	-	-	4-oxalocrotonate tautomerase	protein-coding	-	-	-	-	20080716
+303	4226930	xylII	pWW53_55	-	-	-	-	4-oxalocrotonate decarboxylase	protein-coding	-	-	-	-	20080514
+303	4226931	xylIII	pWW53_80	-	-	-	-	4-oxalocrotonate decarboxylase	protein-coding	-	-	-	-	20080716
+303	4226932	xylJI	pWW53_52	-	-	-	-	2-oxopent-4-enoate hydratase	protein-coding	-	-	-	-	20080514
+303	4226933	xylJII	pWW53_77	-	-	-	-	2-oxopent-4-enoate hydratase	protein-coding	-	-	-	-	20080514
+303	4226934	xylKI	pWW53_54	-	-	-	-	4-hydroxy-2-ketovalerate aldolase	protein-coding	-	-	-	-	20080609
+303	4226935	xylKII	pWW53_79	-	-	-	-	4-hydroxy-2-ketovalerate aldolase	protein-coding	-	-	-	-	20080514
+303	4226936	benD	pWW53_47	-	-	-	-	"1,6-dihydroxycyclohexa-2,4-diene-1-carboxylate dehydrogenase"	protein-coding	-	-	-	-	20080510
+303	4226937	benD	pWW53_72	-	-	-	-	"1,6-dihydroxycyclohexa-2,4-diene-1-carboxylate dehydrogenase"	protein-coding	-	-	-	-	20080514
+303	4226938	xylM	pWW53_62	-	-	-	-	xylene monooxygenase hydroxylase subunit	protein-coding	-	-	-	-	20080514
+303	4226939	xylN	pWW53_65	-	-	-	-	putative outer membrane toluene transport protein	protein-coding	-	-	-	-	20080514
+303	4226940	xylQI	pWW53_53	-	-	-	-	acetaldehyde dehydrogenase	protein-coding	-	-	-	-	20080514
+303	4226941	xylQII	pWW53_78	-	-	-	-	acetaldehyde dehydrogenase	protein-coding	-	-	-	-	20080716
+303	4226942	xylR	pWW53_58	-	-	-	-	transcriptional regulator XylR	protein-coding	-	-	-	-	20080514
+303	4226943	xylS1	pWW53_57	-	-	-	-	transcriptional activator of xyl-meta-cleavage pathway operon	protein-coding	-	-	-	-	20080716
+303	4226944	xylS3	pWW53_68	-	-	-	-	transcriptional regulator XylS	protein-coding	-	-	-	-	20080716
+303	4226945	xylTI	pWW53_48	-	-	-	-	chloroplast-type ferredoxin	protein-coding	-	-	-	-	20080514
+303	4226946	xylTII	pWW53_73	-	-	-	-	chloroplast-type ferredoxin	protein-coding	-	-	-	-	20071129
+303	4226947	xylU	pWW53_59	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+303	4226948	xylW	pWW53_60	-	-	-	-	benzyl alcohol dehydrogenase II	protein-coding	-	-	-	-	20080716
+303	4226949	xylXI	pWW53_44	-	-	-	-	toluene 1.2-dioxygenase alpha subunit	protein-coding	-	-	-	-	20080514
+303	4226950	xylXII	pWW53_69	-	-	-	-	toluene 1.2-dioxygenase alpha subunit	protein-coding	-	-	-	-	20080716
+303	4226951	xylYI	pWW53_45	-	-	-	-	toluene 1.2-dioxygenase beta subunit	protein-coding	-	-	-	-	20080514
+303	4226952	xylYII	pWW53_70	-	-	-	-	toluene 1.2-dioxygenase beta subunit	protein-coding	-	-	-	-	20080514
+303	4226953	xylZI	pWW53_46	-	-	-	-	xylZI	protein-coding	-	-	-	hypothetical protein	20080514
+303	4226954	xylZII	pWW53_71	-	-	-	-	xylZII	protein-coding	-	-	-	hypothetical protein	20080514
+303	4226955	pWW53_06	pWW53_06	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071129
+303	4226956	pWW53_07	pWW53_07	-	-	-	-	putative replication/partitioning-related protein	protein-coding	-	-	-	-	20071129
+303	4226957	pWW53_08	pWW53_08	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071129
+303	4226958	pWW53_09	pWW53_09	-	-	-	-	putative transcriptional regulator protein	protein-coding	-	-	-	-	20071129
+303	4226959	pWW53_10	pWW53_10	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071129
+303	4226960	pWW53_11	pWW53_11	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071129
+303	4226961	pWW53_15	pWW53_15	-	-	-	-	putative methyl-accepting-chemotaxis protein	protein-coding	-	-	-	-	20080510
+303	4226962	repA	pWW53_01	-	-	-	-	replication initiator protein	protein-coding	-	-	-	-	20080510
+303	4226963	repB	pWW53_86	-	-	-	-	putative DNA helicase	protein-coding	-	-	-	-	20080514
+303	4226964	tnpA	pWW53_84	-	-	-	-	Tn4659 transposase	protein-coding	-	-	-	-	20071129
+303	4226965	tnpA	pWW53_13	-	-	-	-	Tn4656/Tn4657/Tn4658 transposase	protein-coding	-	-	-	-	20071129
+303	4226966	tnpA	pWW53_18	-	-	-	-	transposase component	protein-coding	-	-	-	-	20080514
+303	4226967	tnpA	pWW53_87	-	-	-	-	ISPpu20 transposase	protein-coding	-	-	-	-	20080516
+303	4226968	tnpA1	pWW53_66	-	-	-	-	putative transposase	protein-coding	-	-	-	-	20080510
+303	4226969	tnpA1	pWW53_40	-	-	-	-	putative transposase	protein-coding	-	-	-	-	20080510
+303	4226970	tnpA2	pWW53_67	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+303	4226971	tnpA2	pWW53_39	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20080716
+303	4226972	tnpB	pWW53_17	-	-	-	-	transposase component	protein-coding	-	-	-	-	20080514
+303	4226973	tnpC	pWW53_16	-	-	-	-	transposase component	protein-coding	-	-	-	-	20080514
+303	4226974	tnpR	pWW53_14	-	-	-	-	Tn4656/Tn4658 resolvase	protein-coding	-	-	-	-	20080609
+303	4226975	tnpR	pWW53_83	-	-	-	-	Tn4659 resolvase	protein-coding	-	-	-	-	20080716
+303	4226976	tus	pWW53_85	-	-	-	-	putative replication terminus binding protein	protein-coding	-	-	-	-	20071129
+303	4226977	xylA	pWW53_63	-	-	-	-	xylene monooxygenase electron transfer subunit	protein-coding	-	-	-	-	20080514
+303	4226978	xylB	pWW53_64	-	-	-	-	benzyl alcohol dehydrogenase	protein-coding	-	-	-	-	20080514
+303	4226979	xylC	pWW53_61	-	-	-	-	benzaldehyde dehydrogenase	protein-coding	-	-	-	-	20080510
+303	4226980	xylEI	pWW53_49	-	-	-	-	"catechol 2,3-dioxygenase"	protein-coding	-	-	-	-	20080609
+303	4226981	pWW53_19	pWW53_19	-	-	-	-	putative DNA-binding protein	protein-coding	-	-	-	-	20071208
+303	4226982	pWW53_20	pWW53_20	-	-	-	-	putative ThiF/MoeB/HesA family protein	protein-coding	-	-	-	-	20080514
+303	4226983	pWW53_21	pWW53_21	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071129
+303	4226984	pWW53_22	pWW53_22	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071129
+303	4226985	pWW53_23	pWW53_23	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071129
+303	4226986	pWW53_24	pWW53_24	-	-	-	-	hypothetical protein	protein-coding	-	-	-	-	20071129

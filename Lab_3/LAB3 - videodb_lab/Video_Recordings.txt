@@ -1,0 +1,55 @@
+3000.00	"Francis Ford Coppola"	"Apocalypse Now"	"Action & Adventure"	"apocalypse_now.gif"	9180.00	"R"	1979.00	22.99	0.00
+3001.00	"Michael Bay"	"Bad Boys"	"Action & Adventure"	"badboys.gif"	7140.00	"R"	1995.00	15.99	782.00
+3002.00	"Mel Gibson"	"Braveheart"	"Action & Adventure"	"braveheart.gif"	10620.00	"R"	1995.00	14.99	582.00
+3003.00	"Mimi Leder"	"Deep Impact"	"Action & Adventure"	"deep_impact.gif"	5700.00	"PG-13"	1998.00	11.99	501.00
+3004.00	"J. Robert Wagoner"	"Disco Godfather"	"Action & Adventure"	"disco_godfather.gif"	5580.00	"R"	1993.00	10.99	872.00
+3005.00	"Stanley Kubrick"	"Full Metal Jacket"	"Action & Adventure"	"full_metal_jacket.gif"	7020.00	"R"	1987.00	16.99	872.00
+3006.00	"Roland Emmerich"	"Independence Day"	"Action & Adventure"	"independence_day.gif"	8700.00	"PG-13"	1996.00	16.99	0.00
+3007.00	"John McTiernan"	"The Hunt for Red October"	"Action & Adventure"	"hunt_for_red_october.gif"	8100.00	"PG"	1990.00	10.99	618.00
+3008.00	"Michael Bay"	"The Rock"	"Action & Adventure"	"the_rock.gif"	8160.00	"R"	1996.00	20.99	514.00
+3009.00	"Tony Scott"	"Top Gun"	"Action & Adventure"	"top_gun.gif"	6600.00	"PG"	1986.00	11.99	499.00
+3010.00	"Jay Roach"	"Austin Powers"	"Comedy"	"austin_powers.gif"	5220.00	"PG-13"	1997.00	17.99	688.00
+3011.00	"Harold Ramis"	"Caddyshack"	"Comedy"	"caddyshack.gif"	5880.00	"R"	1980.00	18.99	938.00
+3012.00	"Michael Schultz"	"Car Wash"	"Comedy"	"car_wash.gif"	5820.00	"PG"	1976.00	24.99	0.00
+3013.00	"Spike Lee"	"Crooklyn"	"Comedy"	"crooklyn.gif"	6840.00	"PG-13"	1994.00	9.99	651.00
+3014.00	"D`Urville Martin"	"Dolemite"	"Comedy"	"dolemite.gif"	5460.00	"R"	1975.00	19.99	489.00
+3015.00	"Peter Farrelly"	"Dumb and Dumber"	"Comedy"	"dumb_and_dumber.gif"	6600.00	"PG-13"	1994.00	23.99	973.00
+3016.00	"Terry Gilliam"	"Monty Python and The Holy Grail"	"Comedy"	"monty_python_holy_grail.gif"	5400.00	"PG"	1975.00	17.99	980.00
+3017.00	"Chris Columbus"	"Mrs. Doubtfire"	"Comedy"	"mrs_doubtfire.gif"	7500.00	"PG-13"	1993.00	21.99	772.00
+3018.00	"John Landis"	"The Blues Brothers"	"Comedy"	"blues_brothers.gif"	9180.00	"R"	1980.00	14.99	0.00
+3019.00	"Tom Shadyac"	"The Nutty Professor"	"Comedy"	"nutty_professor.gif"	5700.00	"PG-13"	1996.00	19.99	925.00
+3020.00	"John Schlesinger"	"Falcon and the Snowman"	"Drama"	"falcon_snowman.jpg"	7860.00	"R"	1985.00	10.99	995.00
+3021.00	"Robert Zemeckis"	"Forrest Gump"	"Drama"	"forrest_gump.gif"	9420.00	"PG-13"	1994.00	10.99	496.00
+3022.00	"Jerry Zucker"	"Ghost"	"Drama"	"ghost.gif"	7620.00	"PG-13"	1990.00	12.99	828.00
+3023.00	"Victor Fleming"	"Gone With The Wind"	"Drama"	"gone_with_the_wind.gif"	13320.00	"NR"	1939.00	23.99	915.00
+3024.00	"Gus Van Sant"	"Good Will Hunting"	"Drama"	"good_will_hunting.gif"	7560.00	"R"	1997.00	14.99	0.00
+3025.00	"John Singleton"	"Poetic Justice"	"Drama"	"poetic_justice.gif"	6540.00	"R"	1993.00	20.99	523.00
+3026.00	"David Anspaugh"	"Rudy"	"Drama"	"rudy.gif"	6840.00	"PG"	1993.00	15.99	658.00
+3027.00	"Frank Darabont"	"Shawshank Redemption"	"Drama"	"shawshank_redemption.gif"	8520.00	"R"	1994.00	20.99	529.00
+3028.00	"George Tillman"	"Soul Food"	"Drama"	"soul_food.gif"	6840.00	"R"	1997.00	11.99	687.00
+3029.00	"James Cameron"	"Titanic"	"Drama"	"titanic.gif"	11640.00	"PG-13"	1997.00	22.99	917.00
+3030.00	"Bernard Rose"	"Candyman"	"Horror"	"candyman.gif"	5880.00	"R"	1992.00	15.99	0.00
+3031.00	"Brian De Palmas"	"Carrie"	"Horror"	"carrie.gif"	5880.00	"R"	1976.00	15.99	855.00
+3032.00	"Sean S. Cunningham"	"Friday the 13th Pt 1"	"Horror"	"friday_13th_part1.gif"	5760.00	"NR"	1980.00	24.99	903.00
+3033.00	"Rob Reiner"	"Misery"	"Horror"	"misery.gif"	6420.00	"R"	1990.00	22.99	612.00
+3034.00	"Mary Lambert"	"Pet Sematary"	"Horror"	"pet_sematary.gif"	6180.00	"R"	1989.00	13.99	887.00
+3035.00	"Tobe Hopper"	"Poltergeist"	"Horror"	"poltergeist.gif"	6900.00	"R"	1982.00	20.99	821.00
+3036.00	"Alfred Hitchcock"	"Psycho"	"Horror"	"psycho.gif"	6540.00	"R"	1960.00	15.99	0.00
+3037.00	"Wes Craven"	"Scream"	"Horror"	"scream.gif"	6660.00	"R"	1996.00	22.99	692.00
+3038.00	"Ridley Scott"	"Alien"	"Science Fiction"	"alien.gif"	6960.00	"R"	1979.00	19.99	800.00
+3039.00	"Stanley Kubrick"	"Clockwork Orange"	"Science Fiction"	"clockwork_orange.gif"	8220.00	"R"	1971.00	13.99	400.00
+3040.00	"Robert Zemeckis"	"Contact"	"Science Fiction"	"contact.gif"	9000.00	"PG"	1997.00	10.99	547.00
+3041.00	"David Lynch"	"Dune"	"Science Fiction"	"dune.gif"	8220.00	"PG-13"	1984.00	10.99	962.00
+3042.00	"John Boorman"	"Excalibur"	"Science Fiction"	"excalibur.gif"	8400.00	"PG"	1981.00	15.99	0.00
+3043.00	"Steven Spielberg"	"Jurassic Park"	"Science Fiction"	"jurassic_park.gif"	7620.00	"PG-13"	1993.00	20.99	806.00
+3044.00	"Johnathan Frakes"	"Star Trek: First Contact"	"Science Fiction"	"star_trek_first_contact.gif"	6660.00	"PG-13"	1996.00	11.99	593.00
+3045.00	"George Lucas"	"Star Wars"	"Science Fiction"	"star_wars.gif"	7260.00	"PG"	1977.00	13.99	720.00
+3046.00	"Steven Lisberger"	"Tron"	"Science Fiction"	"tron.gif"	5700.00	"PG"	1982.00	12.99	653.00
+3047.00	"Jeremiah Chechik"	"Diabolique"	"Suspense"	"diabolique.gif"	6480.00	"R"	1996.00	15.99	421.00
+3048.00	"Barry Levinson"	"Disclosure"	"Suspense"	"disclosure.gif"	7740.00	"R"	1994.00	23.99	0.00
+3049.00	"Harold Becker"	"Malice"	"Suspense"	"malice.gif"	6360.00	"R"	1993.00	23.99	752.00
+3050.00	"David Fincher"	"Seven"	"Suspense"	"seven.gif"	7620.00	"R"	1995.00	14.99	421.00
+3051.00	"Sydney Pollack"	"The Firm"	"Suspense"	"the_firm.gif"	9240.00	"R"	1993.00	17.99	655.00
+3052.00	"David Fincher"	"The Game"	"Suspense"	"the_game.gif"	6900.00	"R"	1997.00	21.99	581.00
+3053.00	"Jonathan Demme"	"The Silence of the Lambs"	"Suspense"	"silence_of_the_lambs.gif"	7080.00	"R"	1991.00	22.99	817.00
+3054.00	"Bryan Singer"	"The Usual Suspects"	"Suspense"	"usual_suspects.gif"	6360.00	"R"	1995.00	23.99	0.00
